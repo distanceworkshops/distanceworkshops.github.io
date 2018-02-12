@@ -1,0 +1,8 @@
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables",     "with_toc_data"]
+gems:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
+permalink: /blog/:year/:month/:day/:title

@@ -15,7 +15,7 @@ Here you can find content for distance sampling workshops including slides, exer
 
 ## Current
 
-- [*Distance Sampling Workshops*](standrews-2019): to be given in St Andrews 19th to 20th August 2019.
+- [*Distance Sampling Workshops*](standrews-2019): to be given in St Andrews 19th to 30th August 2019.
 
 ## Previous workshops
 

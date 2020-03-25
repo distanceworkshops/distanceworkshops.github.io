@@ -15,11 +15,12 @@ Here you can find content for distance sampling workshops including slides, exer
 
 ## Current
 
-[Information about up-coming workshops](https://www.creem.st-andrews.ac.uk/distance-sampling-training-workshops-st-andrews-august-2020/) to be given in St Andrews in August 2020.
+As a result of the coronavirus (COVID-19) outbreak registration for the August Distance Workshops in St Andrews has been suspended. We'll provide a more detailed update by 3rd April.
 
-- Introduction to R for Distance Sampling: 17-18 August (1.5 days)
-- Introduction to Distance Sampling: 18-21 August (3.5 days)
-- Advanced Distance Sampling 24-28 August (5 days)
+We are preparing to deliver the courses, in some form, by videoconference. We will post updates here, on [Twitter](http://twitter.com/distancesamp) and on the [distance sampling mailing list](https://groups.google.com/forum/#!forum/distance-sampling).
+
+Stay safe folks!
+
 
 ## Previous workshops
 

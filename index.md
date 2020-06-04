@@ -15,9 +15,9 @@ Here you can find content for distance sampling workshops including slides, exer
 
 ## Current
 
-This year we're offering a live online introduction course, as well as components of the advanced course (also online).
+In 2020, we are offering several live online introduction courses, as well as components of the advanced course (also online).  Below are links to forthcoming workshops:
 
- - [Distance Live introductory online workshops](https://www.creem.st-andrews.ac.uk/distance-live-online-workshops/) - 4-15 May 2020
+ - [Distance Live introductory online workshops](https://www.creem.st-andrews.ac.uk/distance-live-online-workshops/) - several dates, see web page for details.
  - [Spatially explicit models for distance sampling data: density surface modelling in practice](http://workshops.distancesampling.org/online-dsm-2020/) - 8-12 June 2020
 
 
@@ -27,6 +27,8 @@ Stay safe folks!
 
 
 ## Previous workshops
+
+Previous workshops with online materials still available are listed here.
 
 - [*Distance Sampling Workshops*](standrews-2019): given in St Andrews 19th to 30th August 2019.
 - [*Intermediate-level Distance Sampling Workshop*](stand-intermed-2018): given in St Andrews, 26th to 31st August 2018.

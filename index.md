@@ -13,7 +13,7 @@ Here you can find content for distance sampling workshops including slides, exer
 [Online distance sampling introductory workshop](online-course): a full introductory workshop, including recorded video lectures, exercises and quizes.
 
 
-## Current interactive workshops
+## Forthcoming interactive workshops
 
 In 2020, we are offering all of our workshops online, using live video.  Below are links to forthcoming workshops:
 

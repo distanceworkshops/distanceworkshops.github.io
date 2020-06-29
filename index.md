@@ -17,7 +17,7 @@ Here you can find content for distance sampling workshops including slides, exer
 
 In 2020, we are offering all of our workshops online, using live video.  Below are links to forthcoming workshops:
 
-- 6th - 17th July.  [*Distance Live introductory online workshop*](*Distance Live introductory online workshop*)
+- 6th - 17th July.  [*Distance Live introductory online workshop*](https://www.creem.st-andrews.ac.uk/distance-live-online-workshops/)
   - Workshop fully booked.
 - 7th - 18th September. [*Mark-recapture distance sampling*](https://www.creem.st-andrews.ac.uk/mark-recapture-distance-sampling-workshop/)
   - _Registration now open!_

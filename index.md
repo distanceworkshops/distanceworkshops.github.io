@@ -22,7 +22,7 @@ In 2020, we are offering all of our workshops online, using live video.  Below a
 - 7th - 18th September 2020.  [*Distance Live introductory online workshop*](https://www.creem.st-andrews.ac.uk/distance-live-online-workshops/)
   - _Registration closed_
 - 21st September - 2nd October 2020.  [*Distance Live introductory online workshop*](https://www.creem.st-andrews.ac.uk/distance-live-online-workshops/)
-  - _Registration open: closing date **21 August 2020**_
+  - _Registration closed_
 - 5th - 9th October 2020.  [*Spatially explicit models for distance sampling data: density surface modelling in practice*](https://www.creem.st-andrews.ac.uk/spatial-modelling-live-online-workshop-2/)
   - _Registration now open!_
 

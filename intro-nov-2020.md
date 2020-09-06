@@ -15,11 +15,10 @@ Training in distance sampling design and analysis has been conducted in St Andre
 We now offer these lectures, discussions and exercises in a new, interactive format, enabling participants to engage in lectures, conduct guided analyses of data sets and ask questions of the instructor.
 
 #### Instructor:
-The workshop instructor is Eric Rexstad](https://www.creem.st-andrews.ac.uk/person/er26/)
+The workshop instructor is [Eric Rexstad](https://www.creem.st-andrews.ac.uk/person/er26/)
 
 #### Timing:
-In September 2020, we will offer this workshop <strong>twice:</strong> 07-18 September and 21 September &#8211; 02 October.  The difference between the offerings will be the time of day they take place.  Meeting times for the 07-18 Sept workshop will be 1700-1900 British Summer Time.  This time of day is suited to Europe, Africa, North and South America. 
-
+In November 2020, we will offer this workshop 09-20 November between the hours of 1500 and 1700 UK time.  
 #### Enrollment limit:
 The number of participants is limited to 15 to facilitate time for questions and individual assistance with the exercises.  When one of the workshops fills, meaning participants have paid their registration fees, registration for that session will close.
 
@@ -61,10 +60,11 @@ You should have some familiarity with the R programming language; however code w
 The Registration Fee is 215.00 GBP
 
 ##### Registration:
+The registration deadline is **23 October 2020** payment must be received by that time to secure your place in the workshop.
 
 ##### Payment:
 Payment should be made using the online store at the University of St Andrews.
-[Please follow this link to make payment for the workshop to be held from 07 to 18th September](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/introductory-distance-sampling-training-workshop-live-online-7th-18th-september-2020)
+[Please follow this link to make payment for the workshop to be held from 09-20 November](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/introductory-distance-sampling-training-workshop-live-online-7th-18th-september-2020)
 
 #### Testimonials:
 “I really like your teaching style. The pace is steady enough for ample note taking, but quick enough to keep my attention span. The humour gets me chuckling alone at my desk. The concepts are so easy to understand and relate to. Some of these concepts I’ve been aware of for a long time in a kind of ‘working knowledge’ way, but hearing you describe the theory behind them is giving me a lot of ‘oh yeah!’ moments. It is a real pleasure and is giving me a lot to think about for my own teaching.”  — Dr Sarah Marley, <em>University of Portsmouth</em>

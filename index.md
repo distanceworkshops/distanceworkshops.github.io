@@ -31,15 +31,14 @@ Stay safe folks!
 
 ## Previous workshops
 
-Some of our previous workshops with online materials still available are listed here.
+Some previous workshops from the last two year are listed here.  Hotlinks, where given, link through to workshop material. 
 
--  *Mark-recapture distance sampling: distance sampling when animals are missed at zero distance* online, 24-25 August 2020.
-- *Distance Live introductory online workshop* 6-17 July 2020.
+- *Mark-recapture distance sampling: distance sampling when animals are missed at zero distance* online, 24-25 August 2020.
+- *Distance Live introductory online workshop* online, 6-17 July 2020.
 - [*Spatially explicit models for distance sampling data: density surface modelling in practice*](http://workshops.distancesampling.org/online-dsm-2020/) online, 8-12 June 2020
-- *Distance Live introductory online workshop* 4-15 May 2020.
-- *Distance Live introductory online workshop* 17-28 February 2020.
-- *Distance Live introductory online workshop* 6-17 January 2020.
-- *Distance Live introductory online workshop* 4-15 November 2019.
-- [*Distance Sampling Workshops*](standrews-2019): given in St Andrews 19-30 August 2019.
-- *Spatial models for distance sampling data using R and ArcGIS*: given at Duke by David L Miller and Jason Roberts 27-30 October 2015.
+- *Distance Live introductory online workshop* online, 4-15 May 2020.
+- *Distance Live introductory online workshop* online, 17-28 February 2020.
+- *Distance Live introductory online workshop* online, 6-17 January 2020.
+- *Distance Live introductory online workshop* online, 4-15 November 2019.
+- *Introductory and advanced distance sampling Workshops* in-person at St Andrews, 19-30 August 2019.
 

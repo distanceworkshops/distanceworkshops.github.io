@@ -10,21 +10,19 @@ Here you can find content for distance sampling workshops including slides, exer
 
 ## Free online course
 
-[Online distance sampling introductory workshop](online-course): a full introductory workshop, including recorded video lectures, exercises and quizes.
+[Online distance sampling introductory workshop](online-course): a full introductory workshop, including recorded video lectures, exercises and quizzes.
 
 
 ## Forthcoming interactive workshops
 
 In 2020, we are offering all of our workshops online, using live video.  Below are links to forthcoming workshops:
 
-- 24th - 25th August 2020. [*Mark-recapture distance sampling: distance sampling when animals are missed at zero distance*](https://www.creem.st-andrews.ac.uk/mark-recapture-distance-sampling-workshop/)
-  - _Workshop fully booked_
 - 7th - 18th September 2020.  [*Distance Live introductory online workshop*](https://www.creem.st-andrews.ac.uk/distance-live-online-workshops/)
   - _Registration closed_
 - 21st September - 2nd October 2020.  [*Distance Live introductory online workshop*](https://www.creem.st-andrews.ac.uk/distance-live-online-workshops/)
   - _Registration closed_
 - 5th - 9th October 2020.  [*Spatially explicit models for distance sampling data: density surface modelling in practice*](https://www.creem.st-andrews.ac.uk/spatial-modelling-live-online-workshop-2/)
-  - _Registration now open!_
+  - _Registration closed_
 
 We will post further updates here, on [Twitter](http://twitter.com/distancesamp) and on the [distance sampling mailing list](https://groups.google.com/forum/#!forum/distance-sampling).
 
@@ -35,7 +33,8 @@ Stay safe folks!
 
 Some of our previous workshops with online materials still available are listed here.
 
-- [*Spatially explicit models for distance sampling data: density surface modelling in practice*](http://workshops.distancesampling.org/online-dsm-2020/) - held online, 8-12 June 2020
+-  [*Mark-recapture distance sampling: distance sampling when animals are missed at zero distance*](https://www.creem.st-andrews.ac.uk/mark-recapture-distance-sampling-workshop/) online, 24th - 25th August 2020.
+- [*Spatially explicit models for distance sampling data: density surface modelling in practice*](http://workshops.distancesampling.org/online-dsm-2020/) online, 8-12 June 2020
 - [*Distance Sampling Workshops*](standrews-2019): given in St Andrews 19th to 30th August 2019.
 - [*Spatial models for distance sampling data using R and ArcGIS*](duke-spatial-2015): given at Duke by David L Miller and Jason Roberts 27-30 October 2015.
 

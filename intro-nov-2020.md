@@ -3,6 +3,9 @@ title: Introductory workshop, November 2020
 layout: index
 
 ---
+
+# Introductory workshop, November 2020 
+
 Does the following describe your situation?
 
 - Considering the use of distance sampling for population assessment?
@@ -10,21 +13,22 @@ Does the following describe your situation?
 - Difficult to schedule and finance such training in Scotland?
 - Consider taking the live online version of distance sampling training.
 
-#### Overview:
+## Overview
 Training in distance sampling design and analysis has been conducted in St Andrews for the past 25 years. In addition, training materials and video lectures were placed online in 2018 and have been used by >7500 users in the past 2 years.
 We now offer these lectures, discussions and exercises in a new, interactive format, enabling participants to engage in lectures, conduct guided analyses of data sets and ask questions of the instructor.
 
-#### Instructor:
+## Instructor
 The workshop instructor is [Eric Rexstad](https://www.creem.st-andrews.ac.uk/person/er26/)
 
-#### Timing:
+## Timing
 In November 2020, we will offer this workshop 09-20 November between the hours of 1500 and 1700 UK time.  
-#### Enrollment limit:
+
+## Enrollment limit
 The number of participants is limited to 15 to facilitate time for questions and individual assistance with the exercises.  When one of the workshops fills, meaning participants have paid their registration fees, registration for that session will close.
 
 Please note, the previous five offerings of this introductory workshop filled rapidly (within a couple of weeks).  We suggest registering at your earliest opportunity; your registration is not complete until you have paid your registration fee.
 
-#### Format and Delivery method:
+## Format and Delivery method
 The training workshop will be delivered via the internet using [Zoom software](https://zoom.us) that enables participants to use their web camera to interact with the instructor during lectures and exercises.
 
 The workshop will be delivered in 10 two-hour sessions. Each session will consist of an interactive lecture, a computing exercise analysing distance sampling data sets and a concluding question and answer session discussing principles and technical details of the session. Sessions will take place weekdays over a two week period.
@@ -35,11 +39,11 @@ When participants have paid their registration fee, further details will be prov
 - access to the RStudio cloud site for the training workshop
 - location of the online lecture materials
 
-#### Content:
+## Content
 
 In the first instance, the workshop will be based upon analyses using the Distance package in R. All participants will make use of the [cloud version of R-Studio](https://rstudio.cloud/). Participants will not need to install R software onto their computers. Instead R, the R-Studio programming environment, necessary packages and data sets will all be available when you access the RStudio Cloud site created for the workshop.
 
-#### Concepts described:
+## Concepts described
 Distance sampling concepts to be discussed include:
 
 - line transects
@@ -53,20 +57,20 @@ Distance sampling concepts to be discussed include:
 - indirect surveys
   - dung or nest surveys and use of multipliers
 
-#### Prerequisites:
+## Prerequisites
 You should have some familiarity with the R programming language; however code will be provided for running the 9 exercises in the workshop.
 
-#### Registration and Payment:
+## Registration and Payment
 The Registration Fee is 215.00 GBP
 
-##### Registration:
+### Registration
 The registration deadline is **23 October 2020** payment must be received by that time to secure your place in the workshop.
 
-##### Payment:
+### Payment
 Payment should be made using the online store at the University of St Andrews.
 [Please follow this link to make payment for the workshop to be held from 09-20 November](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/introductory-distance-sampling-training-workshop-live-online-7th-18th-september-2020)
 
-#### Testimonials:
+## Testimonials
 “I really like your teaching style. The pace is steady enough for ample note taking, but quick enough to keep my attention span. The humour gets me chuckling alone at my desk. The concepts are so easy to understand and relate to. Some of these concepts I’ve been aware of for a long time in a kind of ‘working knowledge’ way, but hearing you describe the theory behind them is giving me a lot of ‘oh yeah!’ moments. It is a real pleasure and is giving me a lot to think about for my own teaching.”  — Dr Sarah Marley, <em>University of Portsmouth</em>
 
 ***
@@ -77,9 +81,9 @@ Payment should be made using the online store at the University of St Andrews.
 
 "I’m really enjoying the course! It has really helped with my understanding of some of the basic concepts. My R education has been very sporadic and with very little guidance, so this has been really good for me. So glad it was offered!" —  Rebecca, <em>United States</em>
 
-#### Enquiries:
+## Enquiries
 
 For information about workshops please contact Eric Rexstad, email: [er26@st-andrews.ac.uk](mailto:er26@st-andrews.ac.uk)
 
-#### Terms and Conditions:
+## Terms and Conditions
 [Information about the University of St Andrews Online Payment Services is available here.](https://onlineshop.st-andrews.ac.uk/help/terms-and-conditions)

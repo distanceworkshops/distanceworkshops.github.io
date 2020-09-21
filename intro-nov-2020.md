@@ -21,12 +21,12 @@ We now offer these lectures, discussions and exercises in a new, interactive for
 The workshop instructor is [Eric Rexstad](https://www.creem.st-andrews.ac.uk/person/er26/)
 
 ## Timing
-In November 2020, we will offer this workshop 09-20 November between the hours of 1500 and 1700 UK time.  
+In November 2020, we will offer this workshop 09-20 November between the hours of **1500 and 1700 UK time**.  Follow this link to find the [time of day this is offered in your time zone.](https://www.timeanddate.com/worldclock/fixedtime.html?p1=3853&iso=20201109T15&msg=Introductory%20distance%20sampling%20training%20workshop%20from%20St%20Andrews&ah=2)  
 
 ## Enrollment limit
 The number of participants is limited to 15 to facilitate time for questions and individual assistance with the exercises.  When one of the workshops fills, meaning participants have paid their registration fees, registration for that session will close.
 
-Please note, the previous five offerings of this introductory workshop filled rapidly (within a couple of weeks).  We suggest registering at your earliest opportunity; your registration is not complete until you have paid your registration fee.
+Please note, the previous six offerings of this introductory workshop filled rapidly (within a couple of weeks).  We suggest registering at your earliest opportunity; your registration is not complete until you have paid your registration fee.
 
 ## Format and Delivery method
 The training workshop will be delivered via the internet using [Zoom software](https://zoom.us) that enables participants to use their web camera to interact with the instructor during lectures and exercises.
@@ -68,7 +68,7 @@ The registration deadline is **23 October 2020** payment must be received by tha
 
 ### Payment
 Payment should be made using the online store at the University of St Andrews.
-[Please follow this link to make payment for the workshop to be held from 09-20 November](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/introductory-distance-sampling-training-workshop-live-online-7th-18th-september-2020)
+[Please follow this link to make payment for the workshop to be held from 09-20 November](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/introductory-distance-sampling-training-workshop-live-online-9th-20th-november-2020)
 
 ## Testimonials
 “I really like your teaching style. The pace is steady enough for ample note taking, but quick enough to keep my attention span. The humour gets me chuckling alone at my desk. The concepts are so easy to understand and relate to. Some of these concepts I’ve been aware of for a long time in a kind of ‘working knowledge’ way, but hearing you describe the theory behind them is giving me a lot of ‘oh yeah!’ moments. It is a real pleasure and is giving me a lot to think about for my own teaching.”  — Dr Sarah Marley, <em>University of Portsmouth</em>

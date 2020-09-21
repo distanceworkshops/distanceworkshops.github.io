@@ -17,8 +17,6 @@ Here you can find content for distance sampling workshops including slides, exer
 
 In 2020, we are offering all of our workshops online, using live video.  Below are links to forthcoming workshops:
 
-- 7th - 18th September 2020.  [*Distance Live introductory online workshop*](https://www.creem.st-andrews.ac.uk/distance-live-online-workshops/)
-  - _Registration closed_
 - 21st September - 2nd October 2020.  [*Distance Live introductory online workshop*](https://www.creem.st-andrews.ac.uk/distance-live-online-workshops/)
   - _Registration closed_
 - 5th - 9th October 2020.  [*Spatially explicit models for distance sampling data: density surface modelling in practice*](https://www.creem.st-andrews.ac.uk/spatial-modelling-live-online-workshop-2/)
@@ -33,6 +31,7 @@ Stay safe folks!
 
 Some previous workshops from the last two year are listed here.  Hotlinks, where given, link through to workshop material. 
 
+- *Distance Live introductory online workshop* online, 7-18 September 2020.
 - *Mark-recapture distance sampling: distance sampling when animals are missed at zero distance* online, 24-25 August 2020.
 - *Distance Live introductory online workshop* online, 6-17 July 2020.
 - [*Spatially explicit models for distance sampling data: density surface modelling in practice*](http://workshops.distancesampling.org/online-dsm-2020/) online, 8-12 June 2020

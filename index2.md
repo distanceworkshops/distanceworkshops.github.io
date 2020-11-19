@@ -19,7 +19,7 @@ We plan to offer the following workshops in 2021, all of them delivered remotely
 
 ### Winter and spring 2021
 
-- 11th - 12th January 2021.  [*Distance sampling when animals are missed at zero distance*](http://workshops.distancesampling.org/mrds-jan-2020.md)
+- 11th - 12th January 2021.  [*Distance sampling when animals are missed at zero distance*](http://workshops.distancesampling.org/mrds-jan-2020.html)
   - _Registration opening soon_
 -  8th - 12th March 2021.  Spatially explicit models for distance sampling data: density surface modelling in practice
 - 15th - 17th March 2021.  Practical design and simulation to optimise distance sampling sureys.

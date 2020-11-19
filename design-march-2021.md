@@ -1,5 +1,5 @@
 ---
-title: Workshop: Practical design and simulation to optimise distance sampling sureys
+title: Workshop - Practical design and simulation to optimise distance sampling sureys
 layout: index
 ---
 

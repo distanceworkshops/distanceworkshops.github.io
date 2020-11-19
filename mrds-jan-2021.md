@@ -1,5 +1,5 @@
 ---
-title: Workshop: distance sampling when animals are missed at zero distance, January 2021
+title: Workshop - distance sampling when animals are missed at zero distance, January 2021
 layout: index
 
 ---

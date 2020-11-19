@@ -4,7 +4,7 @@ layout: index
 
 ---
 
-# Online workshop: distance sampling when animals are missed at zero distance, January 11-12 2021
+# Online workshop: distance sampling when animals are missed at zero distance, January 2021
 
 Are you concerned about missing animals on the transect line or point?  This is the workshop for you!
 

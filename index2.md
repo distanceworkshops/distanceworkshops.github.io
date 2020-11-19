@@ -30,7 +30,7 @@ We are in the early stages of planning our workshop offerings for late spring an
 
 - Introduction to distance sampling
 - Density surface modelling
-- Distance samplgin when animals are missed at zero distance
+- Distance sampling when animals are missed at zero distance
 
 We will post further updates here, on [Twitter](http://twitter.com/distancesamp) and on the [distance sampling mailing list](https://groups.google.com/forum/#!forum/distance-sampling).
 

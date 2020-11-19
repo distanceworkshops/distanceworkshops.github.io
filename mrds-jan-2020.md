@@ -4,7 +4,7 @@ layout: index
 
 ---
 
-# Workshop: distance sampling when animals are missed at zero distance, January 2021
+# Online workshop: distance sampling when animals are missed at zero distance, January 2021
 
 ## Overview
 
@@ -13,7 +13,7 @@ In this two-day workshop, we cover survey protocols and analytical methods for d
 
 ## Instructors
 
-Len Thomas and David Borchers
+[Len Thomas](http://lenthomas.org) and [David Borchers](https://dlb992.wixsite.com/davidborchers)
 
 ## Timing
 
@@ -30,10 +30,11 @@ The workshop will be a mix of live online interactive sessions, delivered via vi
 ## Content
 
 *	Day 1, 11th January.  Mark recapture distance sampling.  The session will begin with an interactive lecture.  We introduce the general problem area of missing animals at distance zero and its implications for abundance estimation, before moving on to solutions based on mark-recapture distance sampling (MRDS, also called double-platform distance sampling).  MRDS is designed to deal with perception bias and, in some circumstances, availability bias.  After introducing the concepts, we review the available software for estimation.  We then take a break from the videoconference for you to undertake a computer exercise (with online text-based support if required).  We reconvene on video to discuss the exercise, before moving to a second interactive lecture where we deal with further topics including a review of assumptions, methods for duplicate identification and point transect methods.  We close with a discussion session.
-*	Day 2, 12th January.  Dealing explicitly with availability bias.  In some contexts, availability bias may be the main source of bias, and in such situations you may need to deal with it explicitly rather than relying on MRDS methods. An extreme example is aerial video surveys of marine mammals, where it might be reasonable to assume that with sufficient care in processing video footage, perception bias in the narrow field of view of the camera(s) is negligible and that the only reason animals are missed is because they are underwater while within the camera’s view. We will describe a variety of methods of dealing explicitly with availability bias, in an interactive lecture covering methods ranging from applying simple availability “correction factors”, to methods that simultaneously model the availability and detection processes.  The methods will be illustrated using applications to real datasets, although at present no user-friendly software is available for participants to experiment with on their own. We will also briefly cover newly-developed methods designed for drone surveys in which duplicates are not identified.
+
+*	Day 2, 12th January.  Dealing explicitly with availability bias.  In some contexts, availability bias may be the main source of bias, and in such situations you may need to deal with it explicitly rather than relying on MRDS methods. An extreme example is aerial video surveys of marine mammals, where it might be reasonable to assume that with sufficient care in processing video footage, perception bias in the narrow field of view of the camera(s) is negligible and that the only reason animals are missed is because they are underwater while within the camera’s view. We will describe a variety of methods of dealing explicitly with availability bias, in an interactive lecture covering methods ranging from applying simple availability “correction factors”, to methods that simultaneously model the availability and detection processes.  The methods will be illustrated using applications to real datasets, although at present no user-friendly software is available for participants to experiment with on their own. We will also briefly cover newly-developed methods designed for drone surveys in which duplicates are not identified.  We will finish with a question-and-answer session.
 
 ## Prerequisites
-You should already know about distance sampling, for example by having taken an introductory workshop or online (either interactively or via our free pre-recorded lectures).  You should also have either experience using Distance for Windows, or of using R, and have the relevant software downloaded and installed in advance of the workshop.  We will offer pre-workshop group meetings to check the video-conferencing software, and that you have the software correctly installed.
+You should already know about distance sampling, for example by having taken a face-to-face introductory workshop or an online workshop (either interactive or via our (free pre-recorded lectures)[https://workshops.distancesampling.org/online-course/]).  You should also have either experience using Distance for Windows, or of using R, and have the relevant software downloaded and installed in advance of the workshop.  We will offer pre-workshop group meetings to check the video-conferencing software, and that you have the software correctly installed.
 
 ## Registration and Payment
 The Registration Fee is 150.00 GBP

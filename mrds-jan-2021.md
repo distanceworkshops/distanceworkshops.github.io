@@ -22,7 +22,7 @@ In this two-day workshop, we cover survey protocols and analytical methods for d
 
 ## Timing
 
-11th and 12th January 2021, 17:00-19:30 GMT.  Follow this link to find the time of day this is in your time zone.](https://www.timeanddate.com/worldclock/fixedtime.html?msg=MRDS+workshop&iso=20210111T1730&p1=3853&ah=2&am=30) 
+11th and 12th January 2021, 17:00-19:30 GMT.  [Follow this link to find the time of day this is in your time zone.](https://www.timeanddate.com/worldclock/fixedtime.html?msg=MRDS+workshop&iso=20210111T1730&p1=3853&ah=2&am=30) 
 
 ## Enrollment limit
 

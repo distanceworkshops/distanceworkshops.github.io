@@ -44,16 +44,14 @@ You should already know about distance sampling, for example by having taken a f
 ## Registration and Payment
 The Registration Fee is 150.00 GBP
 
-### Registration
-Registration will open shortly.
+Registration and payment is via the online store at the University of St Andrews.   To register and pay, please [follow this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/markrecapture-distance-sampling-training-workshop-live-online-1112th-january-2021) and click on the Book Event button.  
+
+Once you have registered, we will contact you to collect some follow-up information.
 
 Registration will close when the workshop fills, or on January 4th at the latest to allow us to run tests with participants on the video-conference system.
 
-### Payment
-Payment should be made using the online store at the University of St Andrews.
-
 ## Enquiries
-For more information about the workshop please contact Len Thomas, email: [len.thomas@st-andrews.ac.uk](mailto:len.thomas@st-andrews.ac.uk)
+For more information about the workshop or registration process please contact Len Thomas, email: [len.thomas@st-andrews.ac.uk](mailto:len.thomas@st-andrews.ac.uk)
 
 ## Terms and Conditions
 [Information about the University of St Andrews Online Payment Services is available here.](https://onlineshop.st-andrews.ac.uk/help/terms-and-conditions)

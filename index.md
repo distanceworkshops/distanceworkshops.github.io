@@ -26,7 +26,7 @@ We plan to offer the following workshops in 2021, all of them delivered remotely
 
 ### Summer 2021
 
-We are in the early stages of planning our workshop offerings for late spring and summer 2021.  These are likely to incllude the following:
+We are in the early stages of planning our workshop offerings for late spring and summer 2021.  These are likely to include the following:
 
 - Introduction to distance sampling
 - Density surface modelling

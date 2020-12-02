@@ -1,21 +1,18 @@
 ---
-title: Workshop - Practical design and simulation to optimise distance sampling sureys
+title: Workshop - Practical design and simulation to optimise distance sampling surveys
 layout: index
 ---
 
-# Online workshop: Practical design and simulation to optimise distance sampling sureys, March 2021
+# Online workshop: Practical design and simulation to optimise distance sampling surveys, March 2021
 
 ## Overview
 
-Distance sampling is a design based method, and as such, good survey design is critical for obtaining valid results. We have spent the last few years developing distance sampling survey design and simulation capabilities in R and we are now celebrating the 2021 release of our new simulation package ‘dsims' with the introduction of this workshop on design and simulation. This workshop will give participants the insight into how to take survey design theory and apply it in the real world via a number of case studies including a marine survey, and both line and point transect terrestrial surveys. We will then demonstrate how to validate and optimise survey designs using ‘dsims’, thereby ensuring that we are achieving the most reliable results given the specific survey in question. We will also consider how ‘dsims’ could be used as a tool to justify survey effort / costings when looking to fund your surveys.
+Good survey design is critical for obtaining reliable results in distance sampling surveys and meeting survey objectives. This workshop expands on the basic theory provided in our introductory workshops to demonstrate how our latest software can be used to generate optimal survey designs while respecting budgetary and logistical constraints. We will demonstrate survey design using our `R` package `dssd`, and investigate design optimisation and the implications of deviations from our design assumptions using our newly released simulation package `dsims`. We will also demonstrate the use of QGIS to obtain requisite input information.
 
-LT suggested para, based on Laura's:
+We will introduce a number of case studies including marine and terrestrial surveys, both point and line transects. These will cover a range of design considerations including, varying effort by strata, designs where detection functions are estimated independently of encounter rate and multi-species designs. Participants will gain further hands-on experience with survey design and simulation in the form of a practical. Discussions on the final day will be tailored to participants own survey design challenges.
 
-Good survey design is critical for obtaining reliable results in distance sampling surveys.  Our introductory workshops teach the basic concepts, but here we go beyond this to give practical advice and experience on using software tools to create a good design.  The workshop will give participants the skills they need to design surveys to best meet their survey objectives while respecting budgetary and logistical constraints.  
+The workshop is designed to be interactive in format, with a chance for participants to discuss their own design problems. We encourage participants to book early and get in touch to let us know about relevant design challenges. 
 
-We will introduce a series of case studies including marine and terrestrial surveys, both point and line transects.  We will show how to use our `R` package `dssd` to create a survey design, and our new package `dsims` to create and run simulation studies to compare different designs and optimize design choices.  We will also demonstrate the use of QGIS to obtain requisite input information.  Participants will gain experience with survey design and simulation through a set of exercises.
-
-The workshop is designed to be interactive in format, with a chance for participants to discuss their own design problems.
 
 ## Instructors
 
@@ -36,11 +33,11 @@ The workshop will be a mix of live online interactive sessions, delivered via vi
 
 ## Content
 
-Day 1: We will start the workshop with an interactive lecture on design with time for questions and discussion afterwards. This will be followed by a short introduction to QGIS and formatting shape files for use with `dssd` and `dsims`. A link to a video will also be provided giving you a detailed walk though of the steps needed to create both single and multi-strata shapefiles in QGIS, for digestion at your own convenience. Lastly, we will introduce a survey design practical for you to complete before the start of day 2.
+Day 1: We will start the workshop with an interactive lecture on design with time for questions and discussion afterwards. We will present a number of case studies covering point and line transect design of both marine and terrestrial surveys. These case studies will discuss design challenges such as when animal density varies considerably within the survey region and when the detection function cannot be estimated at the same time as encounter rate. This will be followed by a short introduction to QGIS and formatting shape files for use with `dssd` and `dsims`. A link to a video will also be provided giving you a detailed walk though of the steps needed to create both single and multi-strata shapefiles in QGIS, for digestion at your own convenience. Lastly, we will introduce a survey design practical for you to complete before the start of day 2.
 
-Day 2: We will start the second day with a discussion of the survey design practical. We will then give an introduction to the simulation capabilities of `dssd` and how they can be used to help optimize planned surveys by forcasting survey accuracy.  Apart from its practical use, a well-implemented simulation study can help strenghten funding applications, providing reasoned justification for requested resources.  We will introduce a simulation practical to be completed before the start of day 3. 
+Day 2: We will start the second day with a discussion of the survey design practical. This will be followed by an introduction to the simulation capabilities of `dssd`. We will then revisit the case studies from the previous day and show how we can optimise our designs and test how robust they are to departures from our design assumptions.  Apart from its practical use, a well-implemented simulation study can help strenghten funding applications, providing reasoned justification for requested resources.  We will introduce a simulation practical to be completed before the start of day 3. 
 
-Day 3: The third day will start with a discussion of the simulation practical. The rest of this session will then be open for discussion of any design or simulation considerations relevant to surveys being planned by participants. Please sign up early and get in touch to let us know about the surveys you are planning to undertake!
+Day 3: The third day will start with a discussion of the simulation practical. The rest of this session will then be open for discussion of any design or simulation considerations relevant to surveys being planned by participants. Please sign up early and get in touch to let us know about design challenges you are facing!
 
 ## Prerequisites
 
@@ -48,7 +45,7 @@ You should already know about distance sampling survey design, for example by ha
 
 ## Registration and Payment
 
-Len: My suggestion is that we make the fee 175 pounds -- thoughts?
+£150 pounds 
 
 ### Registration
 

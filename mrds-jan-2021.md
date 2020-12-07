@@ -42,19 +42,4 @@ The workshop will be a mix of live online interactive sessions, delivered via vi
 You should already know about distance sampling, for example by having taken a face-to-face introductory workshop or an online workshop (either interactive or via our [free pre-recorded lectures](https://workshops.distancesampling.org/online-course/) ).  You should also have either experience using Distance for Windows, or of using R, and have the relevant software downloaded and installed in advance of the workshop.  We will offer pre-workshop group meetings to check the video-conferencing software, and that you have the software correctly installed.
 
 ## Registration and Payment
-This workshop is now fully booked.  Please check our [workshops home page](index.html) for information abotu our current and upcoming offerings.
-<!---
-The Registration Fee is 150.00 GBP
-
-Registration and payment is via the online store at the University of St Andrews.   To register and pay, please [follow this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/markrecapture-distance-sampling-training-workshop-live-online-1112th-january-2021) and click on the Book Event button.  
-
-Once you have registered, we will contact you to collect some follow-up information.
-
-Registration will close when the workshop fills, or on January 4th at the latest to allow us to run tests with participants on the video-conference system.
-
-## Enquiries
-For more information about the workshop or registration process please contact Len Thomas, email: [len.thomas@st-andrews.ac.uk](mailto:len.thomas@st-andrews.ac.uk)
-
-## Terms and Conditions
-[Information about the University of St Andrews Online Payment Services is available here.](https://onlineshop.st-andrews.ac.uk/help/terms-and-conditions)
--->
+This workshop is now fully booked.  Please check our [workshops home page](index.html) for information about our current and upcoming offerings.

@@ -38,13 +38,13 @@ The course will consist of 5 live sessions delivered over videoconference. Betwe
 
 ## Prerequisites
 
-You should already know about distance sampling, for example by having taken a face-to-face introductory workshop or an online workshop (either interactive or via our [free pre-recorded lectures](https://workshops.distancesampling.org/online-course/) ).  You should also have experience using R, and have the relevant software downloaded and installed in advance of the workshop.  We will offer pre-workshop group meetings to check the video-conferencing software, and that you have the software correctly installed.
+You should already know about distance sampling, for example by having taken a face-to-face introductory workshop or an online workshop (either interactive or via our [free pre-recorded lectures](https://workshops.distancesampling.org/online-course/) ). You should also have experience using R, and have the relevant software downloaded and installed in advance of the workshop. We will offer pre-workshop group meetings to check the video-conferencing software, and that you have the software correctly installed.
 
 ## Registration and Payment
 
 The Registration Fee is 250.00 GBP
 
-Registration and payment is via the online store at the University of St Andrews.   To register and pay, please [follow this link]() and click on the Book Event button.
+Registration and payment is via the online store at the University of St Andrews. To register and pay, please [follow this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/spatially-explicit-models-for-distance-sampling-data-training-workshop-live-online-812th-mar-21) and click on the Book Event button.
 
 Once you have registered, we will contact you to collect some follow-up information.
 

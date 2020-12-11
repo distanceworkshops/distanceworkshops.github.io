@@ -9,19 +9,19 @@ layout: index
 
 Good survey design is critical for obtaining reliable results in distance sampling surveys and meeting survey objectives. This workshop expands on the basic theory provided in our introductory workshops to demonstrate how our latest software can be used to generate optimal survey designs while respecting budgetary and logistical constraints. We will demonstrate survey design using our `R` package `dssd`, and investigate design optimisation and the implications of deviations from our design assumptions using our latest simulation package `dsims` (to be released 31/Jan/2021). We will also demonstrate the use of QGIS to obtain requisite input information.
 
-We will introduce a number of case studies including marine and terrestrial surveys. These will cover a range of design considerations including, varying effort by strata, optimising design under budgetary constraints and multi-species designs. Participants will gain further hands-on experience with survey design and simulation in the form of a practical. Discussions on the final day will be tailored to participants own survey design challenges.
+We will explore a range of design challenges including, varying effort by strata, optimising design under budgetary constraints and multi-species designs by introducing case studies of both marine and terrestrial surveys. Participants will gain further hands-on experience with survey design and simulation in the form of a practical. Discussions on the final day will be tailored to participants own survey design challenges.
 
 The workshop is designed to be interactive in format, with a chance for participants to discuss their own design problems. We encourage participants to book early and get in touch to let us know about relevant design challenges. 
 
 
 ## Instructors
 
-Laura Marshall and Len Thomas
+Laura Marshall, Len Thomas and Tiago Marques
 
 ## Timing
 
-15th - 17th March
-15:30-17:00 GMT
+15th March         15:10 - 17:00 GMT
+16th / 17th March  15:30 - 17:00 GMT
 
 ## Enrollment limit
 

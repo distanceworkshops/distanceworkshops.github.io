@@ -19,14 +19,14 @@ We plan to offer the following workshops in 2021, all of them delivered remotely
 
 ### Winter and spring 2021
 
-- 11th - 12th January 2021.  [*Distance sampling when animals are missed at zero distance*](http://workshops.distancesampling.org/mrds-jan-2021.html)
+- 11th - 12th January 2021. [*Distance sampling when animals are missed at zero distance*](http://workshops.distancesampling.org/mrds-jan-2021.html)
   - Workshop fully booked.
--  8th - 12th March 2021.  *Spatially explicit models for distance sampling data: density surface modelling in practice*.
-- 15th - 17th March 2021.  *A practical guide to distance sampling survey design and simulation*. 
+-  8th - 12th March 2021. [*Spatially explicit models for distance sampling data: density surface modelling in practice*.](https://workshops.distancesampling.org/dsm-march-2021)
+- 15th - 17th March 2021. [*A practical guide to distance sampling survey design and simulation*](https://workshops.distancesampling.org/design-march-2021) 
 
 ### Summer 2021
 
-We are in the early stages of planning our workshop offerings for late spring and summer 2021.  These are likely to include the following:
+We are in the early stages of planning our workshop offerings for late spring and summer 2021. These are likely to include the following:
 
 - Introduction to distance sampling
 - Density surface modelling
@@ -36,18 +36,18 @@ We will post further updates here, on [Twitter](http://twitter.com/distancesamp)
 
 ## Previous workshops
 
-Some previous workshops from the last two years are listed here.  Links, where given, are to workshop material. 
+Some previous workshops from the last two years are listed here. Links, where given, are to workshop material.
 
-- *Distance Live introductory online workshop* online, 9th - 20th November 2020.
-- [*Spatially explicit models for distance sampling data: density surface modelling in practice*](http://workshops.distancesampling.org/online-dsm-2020/) online, 5th - 9th October 2020.  
-- *Distance Live introductory online workshop* online, 21st September - 2nd October 2020.
-- *Distance Live introductory online workshop* online, 7th - 18th September 2020.
-- *Mark-recapture distance sampling: distance sampling when animals are missed at zero distance* online, 24th - 25th August 2020.
-- *Distance Live introductory online workshop* online, 6th - 17th July 2020.
+- *Distance Live introductory online workshop* online, 9th-20th November 2020.
+- [*Spatially explicit models for distance sampling data: density surface modelling in practice*](http://workshops.distancesampling.org/online-dsm-2020/) online, 5th-9th October 2020.
+- *Distance Live introductory online workshop* online, 21st September-2nd October 2020.
+- *Distance Live introductory online workshop* online, 7th-18th September 2020.
+- *Mark-recapture distance sampling: distance sampling when animals are missed at zero distance* online, 24th-25th August 2020.
+- *Distance Live introductory online workshop* online, 6th-17th July 2020.
 - *Spatially explicit models for distance sampling data: density surface modelling in practice* online, 8th - 12th June 2020.
-- *Distance Live introductory online workshop* online, 4th - 15th May 2020.
-- *Distance Live introductory online workshop* online, 17th - 28th February 2020.
-- *Distance Live introductory online workshop* online, 6th - 17th January 2020.
-- *Distance Live introductory online workshop* online, 4th - 15th November 2019.
-- *Introductory and advanced distance sampling Workshops* in-person at St Andrews, 19th - 30th August 2019.
+- *Distance Live introductory online workshop* online, 4th-15th May 2020.
+- *Distance Live introductory online workshop* online, 17th-28th February 2020.
+- *Distance Live introductory online workshop* online, 6th-17th January 2020.
+- *Distance Live introductory online workshop* online, 4th-15th November 2019.
+- *Introductory and advanced distance sampling Workshops* in-person at St Andrews, 19th-30th August 2019.
 

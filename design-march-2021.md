@@ -47,13 +47,13 @@ You should already know about distance sampling survey design, for example by ha
 
 £150 pounds 
 
-### Registration
-
 Registration will open on 14th December.
 
-### Payment
+Registration and payment is via the online store at the University of St Andrews. To register and pay, please [follow this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/a-practical-guide-to-distance-sampling-survey-design-simulation-online-workshop-1517th-march-21) and click on the Book Event button.
 
-Payment should be made using the online store at the University of St Andrews.
+Once you have registered, we will contact you to collect some follow-up information.
+
+Registration will close when the workshop fills, or on February 24th at the latest to allow us to run tests with participants on the video-conference system.
 
 ## Enquiries
 

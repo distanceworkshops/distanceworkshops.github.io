@@ -48,7 +48,7 @@ Registration and payment is via the online store at the University of St Andrews
 
 Once you have registered, we will contact you to collect some follow-up information.
 
-Registration will close when the workshop fills, or on January 4th at the latest to allow us to run tests with participants on the video-conference system.
+Registration will close when the workshop fills, or on January 15th at the latest to allow us to run tests with participants on the video-conference system.
 
 ## Enquiries
 For more information about the workshop or registration process please contact Dave Miller, email: [dlm22@st-andrews.ac.uk](mailto:dlm22@st-andrews.ac.uk)

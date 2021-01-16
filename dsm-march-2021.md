@@ -42,13 +42,7 @@ You should already know about distance sampling, for example by having taken a f
 
 ## Registration and Payment
 
-The Registration Fee is 250.00 GBP
-
-Registration and payment is via the online store at the University of St Andrews. To register and pay, please [follow this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/spatially-explicit-models-for-distance-sampling-data-training-workshop-live-online-812th-mar-21) and click on the Book Event button.
-
-Once you have registered, we will contact you to collect some follow-up information.
-
-Registration will close when the workshop fills, or on January 15th at the latest to allow us to run tests with participants on the video-conference system.
+This workshop is now full.  We hope to offer another in Summer 2021.
 
 ## Enquiries
 For more information about the workshop or registration process please contact Dave Miller, email: [dlm22@st-andrews.ac.uk](mailto:dlm22@st-andrews.ac.uk)

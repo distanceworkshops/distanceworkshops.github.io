@@ -19,17 +19,18 @@ We plan to offer the following workshops in 2021, all of them delivered remotely
 
 ### Winter and spring 2021
 
-- 11th - 12th January 2021. [*Distance sampling when animals are missed at zero distance*](http://workshops.distancesampling.org/mrds-jan-2021.html)
-  - Workshop fully booked.
 -  8th - 12th March 2021. [*Spatially explicit models for distance sampling data: density surface modelling in practice*.](https://workshops.distancesampling.org/dsm-march-2021)
+  - Workshop fully booked.
 - 15th - 17th March 2021. [*A practical guide to distance sampling survey design and simulation*](https://workshops.distancesampling.org/design-march-2021) 
+  - Workshop fully booked.
 
 ### Summer 2021
 
-We are in the early stages of planning our workshop offerings for late spring and summer 2021. These are likely to include the following:
+We will soon be announcing workshop offerings for late spring and summer 2021. These will to include the following:
 
 - Introduction to distance sampling
 - Density surface modelling
+- Survey design and simulation
 - Distance sampling when animals are missed at zero distance
 
 We will post further updates here, on [Twitter](http://twitter.com/distancesamp) and on the [distance sampling mailing list](https://groups.google.com/forum/#!forum/distance-sampling).
@@ -38,6 +39,7 @@ We will post further updates here, on [Twitter](http://twitter.com/distancesamp)
 
 Some previous workshops from the last two years are listed here. Links, where given, are to workshop material.
 
+- [*Distance sampling when animals are missed at zero distance*](http://workshops.distancesampling.org/mrds-jan-2021.html), 11th - 12th January 2021.
 - *Distance Live introductory online workshop* online, 9th-20th November 2020.
 - [*Spatially explicit models for distance sampling data: density surface modelling in practice*](http://workshops.distancesampling.org/online-dsm-2020/) online, 5th-9th October 2020.
 - *Distance Live introductory online workshop* online, 21st September-2nd October 2020.

@@ -68,7 +68,7 @@ The registration deadline is **23 March 2021** payment must be received by that 
 
 ### Payment
 Payment should be made using the online store at the University of St Andrews.
-[Please follow this link to make payment for the workshop to be held from 12-23 April 2021]
+[Please follow this link to make payment for the workshop to be held from 12-23 April 2021](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/introductory-distance-sampling-training-workshop-live-online-12th-23rd-april-2021)
 
 ## Testimonials
 “I really like your teaching style. The pace is steady enough for ample note taking, but quick enough to keep my attention span. The humour gets me chuckling alone at my desk. The concepts are so easy to understand and relate to. Some of these concepts I’ve been aware of for a long time in a kind of ‘working knowledge’ way, but hearing you describe the theory behind them is giving me a lot of ‘oh yeah!’ moments. It is a real pleasure and is giving me a lot to think about for my own teaching.”  — Dr Sarah Marley, <em>University of Portsmouth</em>

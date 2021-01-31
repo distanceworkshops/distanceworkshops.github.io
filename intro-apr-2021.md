@@ -10,30 +10,32 @@ Does the following describe your situation?
 
 - Considering the use of distance sampling for population assessment?
 - Wish to have individual attention learning to analyse distance sampling data sets?
-- Difficult to schedule and finance such training in Scotland?
-- Consider taking the live online version of distance sampling training.
+- Curious about variants of distance sampling that may suit your specific goals?
+- Interested in using **R** for your distance sampling analysis? 
+
+If so, consider taking the live online version of our distance sampling training.
 
 ## Overview
-Training in distance sampling design and analysis has been conducted in St Andrews for the past 25 years. In addition, training materials and video lectures were placed online in 2018 and have been used by >7500 users in the past 2 years.
+Training in distance sampling design and analysis has been conducted in St Andrews for the past 25 years. In addition, training materials and video lectures were placed online in 2018 and have been visited by >12000 users in the past 3 years.
 We now offer these lectures, discussions and exercises in a new, interactive format, enabling participants to engage in lectures, conduct guided analyses of data sets and ask questions of the instructor.
 
 ## Instructor
 The workshop instructor is [Eric Rexstad](https://www.creem.st-andrews.ac.uk/person/er26/)
 
 ## Timing
-In April 2021, we will offer this workshop 12-23 April between the hours of **1500 and 1730 UK time**.  The first two hours of each session are obligatory, the last half hour is optional discussion.  Follow this link to find the [time of day this is offered in your time zone.](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Introductory+Distance+Sampling+workshop&iso=20210412T15&p1=3853&ah=2&am=30)  
+In April 2021, we will offer this workshop 12-23 April between the hours of **1500 and 1730 UK time**.  The first two hours of each session are obligatory, the last half hour is devoted to optional discussion.  Follow this link to find the [time of day this is offered in your time zone.](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Introductory+Distance+Sampling+workshop&iso=20210412T15&p1=3853&ah=2&am=30)  
 
 ## Enrollment limit
-The number of participants is limited to 15 to facilitate time for questions and individual assistance with the exercises.  When one of the workshops fills, meaning participants have paid their registration fees, registration for that session will close.
+The number of participants is limited to 15 to facilitate time for questions and individual assistance with the exercises.  When one of the workshops fills registration will close.
 
-Please note, the previous six offerings of this introductory workshop filled rapidly (within a couple of weeks).  We suggest registering at your earliest opportunity; your registration is not complete until you have paid your registration fee.
+Please note, previous offerings of this introductory workshop filled rapidly (within a couple of weeks).  We encourage registering at your earliest opportunity.
 
 ## Format and Delivery method
 The training workshop will be delivered via the internet using [Zoom software](https://zoom.us) that enables participants to use their web camera to interact with the instructor during lectures and exercises.
 
 The workshop will be delivered in 10 two-hour sessions. Each session will consist of an interactive lecture, a computing exercise analysing distance sampling data sets and a concluding question and answer session discussing principles and technical details of the session. Sessions will take place weekdays over a two week period.
 
-When participants have paid their registration fee, further details will be provided regarding:
+When participants have registered, further details will be provided regarding:
 
 - scheduling a test Zoom session with the instructor to ensure the internet connection can support video conferencing
 - access to the RStudio cloud site for the training workshop
@@ -50,21 +52,19 @@ Distance sampling concepts to be discussed include:
 - point transects
 - survey design
 - detection function models
-  - model selection
-- estimation of uncertainty
-  - identifying sources of uncertainty in estimates
+- estimation of uncertainty and its sources
 - geographic stratification for variance reduction
-- indirect surveys
-  - dung or nest surveys and use of multipliers
+- indirect (dung or nest) surveys
+- assessing effect of habitat factors on transect-level animal density (new for 2021)
 
 ## Prerequisites
-You should have some familiarity with the R programming language; however code will be provided for running the 9 exercises in the workshop.
+You should have some familiarity, not necessarily proficiency, with the R programming language; however code will be provided for running the 9 exercises in the workshop.
 
 ## Registration and Payment
-The Registration Fee is 215.00 GBP
+The registration fee is 215 GBP
 
 ### Registration
-The registration deadline is **23 March 2021** payment must be received by that time to secure your place in the workshop.
+The registration deadline is **23 March 2021**.
 
 ### Payment
 Payment should be made using the online store at the University of St Andrews.

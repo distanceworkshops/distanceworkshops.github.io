@@ -19,7 +19,7 @@ We plan to offer the following workshops in 2021, all delivered remotely, via li
 
 ### Spring 2021
 
-- 8th - 12th March 2021. [*Spatially explicit models for distance sampling data: density surface modelling in practice*.](https://workshops.distancesampling.org/dsm-march-2021)
+- 8th - 12th March 2021. [*Spatially explicit models for distance sampling data: density surface modelling in practice*.](https://workshops.distancesampling.org/online-dsm-2021)
   - Workshop fully booked.
 - 15th - 17th March 2021. [*A practical guide to distance sampling survey design and simulation*](https://workshops.distancesampling.org/design-march-2021) 
   - Workshop fully booked.

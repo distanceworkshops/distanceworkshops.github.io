@@ -16,7 +16,7 @@ The workshop is designed to be interactive in format, with a chance for particip
 
 ## Instructors
 
-Laura Marshall and Len Thomas
+Laura Marshall, Len Thomas and Tiago Marques
 
 ## Timing
 

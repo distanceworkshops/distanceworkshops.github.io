@@ -24,7 +24,7 @@ We plan to offer the following workshops in 2021, all delivered remotely, via li
 - 15th - 17th March 2021. [*A practical guide to distance sampling survey design and simulation*](https://workshops.distancesampling.org/design-march-2021) 
   - Workshop fully booked.
 - 12th - 23rd April 2021 [*Distance sampling introductory online workshop*](https://workshops.distancesampling.org/intro-apr-2021) 
-  - Registration now open.
+  - Registration now **closed**.
 
 ### Summer 2021
 

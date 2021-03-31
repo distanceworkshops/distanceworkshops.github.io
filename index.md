@@ -19,10 +19,6 @@ We plan to offer the following workshops in 2021, all delivered remotely, via li
 
 ### Spring 2021
 
-- 8th - 12th March 2021. [*Spatially explicit models for distance sampling data: density surface modelling in practice*.](https://workshops.distancesampling.org/online-dsm-2021)
-  - Workshop fully booked.
-- 15th - 17th March 2021. [*A practical guide to distance sampling survey design and simulation*](https://workshops.distancesampling.org/design-march-2021) 
-  - Workshop fully booked.
 - 12th - 23rd April 2021 [*Distance sampling introductory online workshop*](https://workshops.distancesampling.org/intro-apr-2021) 
   - Registration now **closed**.
 
@@ -41,9 +37,11 @@ We will post further updates here, on [Twitter](http://twitter.com/distancesamp)
 
 Some previous workshops from the last two years are listed here. Links, where given, are to workshop material.
 
-- [*Distance sampling when animals are missed at zero distance*](http://workshops.distancesampling.org/mrds-jan-2021.html), 11th - 12th January 2021.
+- *A practical guide to distance sampling survey design and simulation* online, 15th - 17th March 2021. 
+- [*Spatially explicit models for distance sampling data: density surface modelling in practice*.](https://workshops.distancesampling.org/online-dsm-2021) online, 8th - 12th March 2021. 
+- *Distance sampling when animals are missed at zero distance*, 11th - 12th January 2021.
 - *Distance Live introductory online workshop* online, 9th-20th November 2020.
-- [*Spatially explicit models for distance sampling data: density surface modelling in practice*](http://workshops.distancesampling.org/online-dsm-2020/) online, 5th-9th October 2020.
+- *Spatially explicit models for distance sampling data: density surface modelling in practice* online, 5th-9th October 2020.
 - *Distance Live introductory online workshop* online, 21st September-2nd October 2020.
 - *Distance Live introductory online workshop* online, 7th-18th September 2020.
 - *Mark-recapture distance sampling: distance sampling when animals are missed at zero distance* online, 24th-25th August 2020.

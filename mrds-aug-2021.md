@@ -44,7 +44,7 @@ You should already know about distance sampling, for example by having taken a f
 ## Registration and Payment
 The Registration Fee is 150.00 GBP
 
-Registration and payment is via the online store at the University of St Andrews.   To register and pay, please [follow this link](link goes here) and click on the Book Event button.  
+Registration will open at the end of May 2021.  
 
 Once you have registered, we will contact you to collect some follow-up information.
 

@@ -1,10 +1,10 @@
 ---
-title: Workshop - distance sampling when animals are missed at zero distance, January 2021
+title: Workshop - distance sampling when animals are missed at zero distance, August 2021
 layout: index
 
 ---
 
-# Online workshop: distance sampling when animals are missed at zero distance, January 2021
+# Online workshop: distance sampling when animals are missed at zero distance, August 2021
 
 Are you concerned about missing animals on the transect line or point?  This is the workshop for you!
 
@@ -22,7 +22,7 @@ In this two-day workshop, we cover survey protocols and analytical methods for d
 
 ## Timing
 
-11th and 12th January 2021, 17:00-19:30 GMT.  [Follow this link to find the time of day this is in your time zone.](https://www.timeanddate.com/worldclock/fixedtime.html?msg=MRDS+workshop&iso=20210111T17&p1=3853&ah=2&am=30) 
+30th and 31st January 2021, 15:00-17:30 GMT.  [Follow this link to find the time of day this is in your time zone.](https://www.timeanddate.com/worldclock/fixedtime.html?msg=MRDS+workshop+August+2021&iso=20210830T15&p1=304&ah=2&am=30) 
 
 ## Enrollment limit
 
@@ -42,4 +42,4 @@ The workshop will be a mix of live online interactive sessions, delivered via vi
 You should already know about distance sampling, for example by having taken a face-to-face introductory workshop or an online workshop (either interactive or via our [free pre-recorded lectures](https://workshops.distancesampling.org/online-course/) ).  You should also have either experience using Distance for Windows, or of using R, and have the relevant software downloaded and installed in advance of the workshop.  We will offer pre-workshop group meetings to check the video-conferencing software, and that you have the software correctly installed.
 
 ## Registration and Payment
-This workshop is now fully booked.  Please check our [workshops home page](index.html) for information about our current and upcoming offerings.
+The workshop prices is UK£150.  To register, please go to the (registration page) at the University online shop.

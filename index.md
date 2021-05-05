@@ -19,8 +19,8 @@ The following workshops are being planned.  We will post further updates here, o
 
 ### Summer 2021
 
-- *Spatially explicit models for distance sampling data: density surface modelling in practice*, 16th-20th August 2021.
-- [*Distance sampling when animals are missed at zero distance*](https://workshops.distancesampling.org/mrds-aug-2021.md), 30th-31st August 2021.
+- [*Spatially explicit models for distance sampling data: density surface modelling in practice*](dsm-advert), 16th-20th August 2021.
+- [*Distance sampling when animals are missed at zero distance*](mrds-aug-2021), 30th-31st August 2021.
 - *A practical guide to distance sampling survey design and simulation*, 13th, 14th and 16th September 2021.
 - *Distance Live introductory online workshop*, to be confirmed.
 

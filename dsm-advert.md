@@ -26,11 +26,11 @@ David L Miller
 
 ## Timing
 
-8-12th March 2021, 16:00-18:00 GMT.
+16th-20th August 2021, 16:00-18:00 GMT.
 
 ## Enrollment limit
 
-Registration is limited to 15 participants.
+Registration is limited to 14 participants.
 
 ## Format and Delivery method
 
@@ -42,10 +42,12 @@ You should already know about distance sampling, for example by having taken a f
 
 ## Registration and Payment
 
-This workshop is now full.  We hope to offer another in Summer 2021.
+To appear.
 
 ## Enquiries
+
 For more information about the workshop or registration process please contact Dave Miller, email: [dlm22@st-andrews.ac.uk](mailto:dlm22@st-andrews.ac.uk)
 
 ## Terms and Conditions
+
 [Information about the University of St Andrews Online Payment Services is available here.](https://onlineshop.st-andrews.ac.uk/help/terms-and-conditions)

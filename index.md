@@ -19,7 +19,7 @@ The following workshops are being planned.  We will post further updates here, o
 
 ### Summer 2021
 
-- [*Spatially explicit models for distance sampling data: density surface modelling in practice*](online-dsm-2021), 16th-20th August 2021 ([Registration link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/spatially-explicit-models-for-distance-sampling-data-training-workshop-live-online-1620-august-2021?token=533641e57231051f2f47efb5c929f0fe)).
+- [*Spatially explicit models for distance sampling data: density surface modelling in practice*](online-dsm-2021), 16th-20th August 2021 <!--([Registration link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/spatially-explicit-models-for-distance-sampling-data-training-workshop-live-online-1620-august-2021?token=533641e57231051f2f47efb5c929f0fe)).-->
 - [*Distance sampling when animals are missed at zero distance*](mrds-aug-2021), 30th-31st August 2021.
 - *A practical guide to distance sampling survey design and simulation*, 13th, 14th and 16th September 2021.
 - *Distance Live introductory online workshop*, to be confirmed.

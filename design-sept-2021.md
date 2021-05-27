@@ -20,7 +20,7 @@ Laura Marshall, Len Thomas and Tiago Marques
 
 ## Timing
 
-* 13th September 15:00 - 17:00 British summer time (BST)
+* 13th September 15:00 - 17:00 British summer time (BST - i.e., GMT+1)
 * 14th September 15:30 - 17:00 BST
 * 1-day gap for self-study
 * 16th September 15:30 - 17:00 BST 

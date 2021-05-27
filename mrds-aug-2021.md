@@ -22,7 +22,7 @@ In this two-day workshop, we cover survey protocols and analytical methods for d
 
 ## Timing
 
-30th and 31st August 2021, 15:00-17:30 British Summer Time (BST).  [Follow this link to find the time of day this is in your time zone.](https://www.timeanddate.com/worldclock/fixedtime.html?msg=MRDS+workshop+August+2021&iso=20210830T15&p1=304&ah=2&am=30) 
+30th and 31st August 2021, 15:00-17:30 British Summer Time (BST - i.e., GMT+1).  [Follow this link to find the time of day this is in your time zone.](https://www.timeanddate.com/worldclock/fixedtime.html?msg=MRDS+workshop+August+2021&iso=20210830T15&p1=304&ah=2&am=30) 
 
 ## Enrollment limit
 

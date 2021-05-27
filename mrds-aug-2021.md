@@ -22,7 +22,7 @@ In this two-day workshop, we cover survey protocols and analytical methods for d
 
 ## Timing
 
-30th and 31st January 2021, 15:00-17:30 GMT.  [Follow this link to find the time of day this is in your time zone.](https://www.timeanddate.com/worldclock/fixedtime.html?msg=MRDS+workshop+August+2021&iso=20210830T15&p1=304&ah=2&am=30) 
+30th and 31st August 2021, 15:00-17:30 British Summer Time (BST).  [Follow this link to find the time of day this is in your time zone.](https://www.timeanddate.com/worldclock/fixedtime.html?msg=MRDS+workshop+August+2021&iso=20210830T15&p1=304&ah=2&am=30) 
 
 ## Enrollment limit
 
@@ -39,9 +39,11 @@ The workshop will be a mix of live online interactive sessions, delivered via vi
 *	Day 2.  Dealing explicitly with availability bias.  In some contexts, availability bias may be the main source of bias, and in such situations you may need to deal with it explicitly rather than relying on MRDS methods. An extreme example is aerial video surveys of marine mammals, where it might be reasonable to assume that with sufficient care in processing video footage, perception bias in the narrow field of view of the camera(s) is negligible and that the only reason animals are missed is because they are underwater while within the camera’s view. We will describe a variety of methods of dealing explicitly with availability bias, in an interactive lecture covering methods ranging from applying simple availability “correction factors”, to methods that simultaneously model the availability and detection processes.  The methods will be illustrated using applications to real datasets, although at present no user-friendly software is available for participants to experiment with on their own. We will also briefly cover newly-developed methods designed for drone surveys in which duplicates are not identified.  We will finish with a question-and-answer session.
 
 ## Prerequisites
+
 You should already know about distance sampling, for example by having taken a face-to-face introductory workshop or an online workshop (either interactive or via our [free pre-recorded lectures](https://workshops.distancesampling.org/online-course/) ).  You should also have either experience using Distance for Windows, or of using R, and have the relevant software downloaded and installed in advance of the workshop.  We will offer pre-workshop group meetings to check the video-conferencing software, and that you have the software correctly installed.
 
 ## Registration and Payment
+
 The Registration Fee is 150.00 GBP
 
 Registration will open at the end of May 2021.  

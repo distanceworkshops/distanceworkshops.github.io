@@ -26,7 +26,7 @@ David L Miller
 
 ## Timing
 
-16th-20th August 2021, 16:00-18:00 GMT.
+16th-20th August 2021, 16:00-18:00 British Summer Time (BST - i.e., GMT+1).
 
 ## Enrollment limit
 

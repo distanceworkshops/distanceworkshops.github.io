@@ -12,7 +12,7 @@ Are you concerned about missing animals on the transect line or point?  This is 
 
 Conventional distance sampling methods assume that all animals at zero distance are detected with certainty.  However, in some situations this assumption is violated, and some animals are missed, causing a negative bias in the density and abundance estimates.  
 
-This occurs on some shipboard surveys of marine mammals, for example, where animals may be missed on the trackline because they are underwater while the survey vessel passes, or because the sea conditions are rough so that even some animals right on the line are missed.  The former (being underwater and so not available for detection) is often called availability bias and the latter perception bias.
+This occurs on some shipboard surveys of marine mammals, for example, where animals may be missed on the trackline because they are underwater while the survey vessel passes, or because the sea conditions are rough so that even some animals right on the line are missed.  Bias due to the former (being underwater and so not available for detection) is often called availability bias and the latter perception bias.
 
 In this two-day workshop, we cover survey protocols and analytical methods for dealing with both perception bias and availability bias.  The workshop is intended for those already familiar with the basics of distance sampling. 
 

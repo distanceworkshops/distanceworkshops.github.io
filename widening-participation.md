@@ -16,7 +16,7 @@ Applicants must be working scientists or students who are nationals and who oper
 
 To apply, please email the workshop instructor listed under “Enquiries” on the workshop information page (linked from https://workshops.distancesampling.org/) with your CV and a short document (maximum one page) outlining your work and how this training will enhance it, and describing your need for a scholarship.  Please include a statement to confirm that you are a national of and also work in an eligible country (see below for eligibility).  For online workshops, please also include a statement confirming that you have access to internet connection and computing facilities sufficient for videoconferencing (Skype, Teams, Zoom, etc).  Information you send us will be treated as confidential. 
 
-The closing date for applications is given on the workshop information page 
+The closing date for applications is given on the workshop information page linked from https://workshops.distancesampling.org/.
 
 ## Award criteria
 
@@ -25,4 +25,6 @@ Applications will be ranked according to: (1) merit, in terms of the likely diff
 ## Eligible countries
 
 Participants from all countries except those listed as high-income in the following table are eligible.  The table was obtained from https://www.un.org/en/development/desa/policy/wesp/wesp_current/2014wesp_country_classification.pdf
+
+![country classification](./images/income-table.jpg)
 

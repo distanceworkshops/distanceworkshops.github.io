@@ -25,7 +25,7 @@ The Centre for Research into Ecological and Environmental Modelling wishes to en
 
 ## What to do if you notice or experience any unacceptable behaviour.
 
-* If you notice or experience any behaviour you consider to be contrary to this Code of Conduct, please bring it to the attention of a workshop instructor or to the Director of CREEM David Borchers (dlb@st-andrews.ac.uk) or the Deputy Director Catriona Harris (Catriona.Harris@st-andrews.ac.uk).
+* If you notice or experience any behaviour you consider to be contrary to this Code of Conduct, please bring it to the attention of a workshop instructor or to the Director of CREEM David Borchers [dlb@st-andrews.ac.uk](mailto:dlb@st-andrews.ac.uk) or the Deputy Director Catriona Harris [Catriona.Harris@st-andrews.ac.uk](mailto:Catriona.Harris@st-andrews.ac.uk).
 * All complaints will be investigated promptly and fairly.
 * The person you raise your concern with will maintain confidentiality to the fullest extent possible.
 

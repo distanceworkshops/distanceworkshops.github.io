@@ -53,7 +53,7 @@ Registration will open at the end of May 2021.
 
 Once you have registered, we will contact you to collect some follow-up information.
 
-Registration will close when the workshop fills, or on August 23rd at the latest to allow us to run tests with participants on the video-conference system.
+Registration will close when the workshop fills, or on July 30th at the latest to allow us to run tests with participants on the video-conference system.
 
 ## Enquiries
 

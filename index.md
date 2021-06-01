@@ -35,7 +35,7 @@ We are also hoping to offer the following workshops later in 2021:
 
 ## Widening participation scholarships
 
-We are committed to encouraging participation in our distance sampling workshops by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science. To this end, we will donate one free place on each workshop, covering the cost of the registration fee.  For more information about the scheme, plese see our [widening participation schoarship] page.  Deadline for applications for our summer workshop series is June 15th.
+We are committed to encouraging participation in our distance sampling workshops by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science. To this end, we will donate one free place on each workshop, covering the cost of the registration fee.  For more information about the scheme, plese see our [widening participation schoarship](widening-participation) page.  Deadline for applications for our summer workshop series is June 15th.
 
 ## Workshop code of conduct
 

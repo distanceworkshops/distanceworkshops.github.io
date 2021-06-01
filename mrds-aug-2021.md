@@ -44,13 +44,20 @@ You should already know about distance sampling, for example by having taken a f
 
 ## Registration and Payment
 
-The Registration Fee is 150.00 GBP
+The Registration Fee is 150.00 GBP.
 
-Registration will open at the end of May 2021.  
+To register and pay, please follow [this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-distance-sampling-when-animals-are-missed-at-zero-distance-30th-31st-august-2021) and click on the Book Event button.
 
 Once you have registered, we will contact you to collect some follow-up information.
 
-Registration will close when the workshop fills, or on August 9th at the latest to allow us to run tests with participants on the video-conference system.
+Registration will close when the workshop fills, or on July 30th at the latest to allow us to run tests with participants on the video-conference system.
+
+All participants are asked to abide by our [workshop code of conduct](code-of-conduct).
+
+## Widening participation scholarship
+
+We are offering one free place on the workshop to encouraging participation by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  Please see [here](widening-participation) for more information.  The closing date for scholarship applications is June 15th.
+
 
 ## Enquiries
 For more information about the workshop or registration process please contact Len Thomas, email: [len.thomas@st-andrews.ac.uk](mailto:len.thomas@st-andrews.ac.uk)

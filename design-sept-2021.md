@@ -49,11 +49,17 @@ You should already know about distance sampling survey design, for example by ha
 
 The Registration Fee is 175.00 GBP
 
-Registration will open at the end of May 2021.  
+Registration will open in the first week of June.  
 
 Once you have registered, we will contact you to collect some follow-up information.
 
 Registration will close when the workshop fills, or on July 30th at the latest to allow us to run tests with participants on the video-conference system.
+
+All participants are asked to abide by our [workshop code of conduct](code-of-conduct).
+
+## Widening participation scholarship
+
+We are offering one free place on the workshop to encouraging participation by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  Please see [here](widening-participation) for more information.  The closing date for scholarship applications is June 15th.
 
 ## Enquiries
 

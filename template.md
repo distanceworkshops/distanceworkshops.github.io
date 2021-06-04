@@ -1,10 +1,10 @@
 ---
-title: Workshop - distance sampling when animals are missed at zero distance, January 2021
+title: Workshop - distance sampling when animals are missed at zero distance, August 2021
 layout: index
 
 ---
 
-# Online workshop: distance sampling when animals are missed at zero distance, January 2021
+# Online workshop: distance sampling when animals are missed at zero distance, August 2021
 
 Are you concerned about missing animals on the transect line or point?  This is the workshop for you!
 
@@ -12,7 +12,7 @@ Are you concerned about missing animals on the transect line or point?  This is 
 
 Conventional distance sampling methods assume that all animals at zero distance are detected with certainty.  However, in some situations this assumption is violated, and some animals are missed, causing a negative bias in the density and abundance estimates.  
 
-This occurs on some shipboard surveys of marine mammals, for example, where animals may be missed on the trackline because they are underwater while the survey vessel passes, or because the sea conditions are rough so that even some animals right on the line are missed.  The former (being underwater and so not available for detection) is often called availability bias and the latter perception bias.
+This occurs on some shipboard surveys of marine mammals, for example, where animals may be missed on the trackline because they are underwater while the survey vessel passes, or because the sea conditions are rough so that even some animals right on the line are missed.  Bias due to the former (being underwater and so not available for detection) is often called availability bias and the latter perception bias.
 
 In this two-day workshop, we cover survey protocols and analytical methods for dealing with both perception bias and availability bias.  The workshop is intended for those already familiar with the basics of distance sampling. 
 
@@ -22,7 +22,7 @@ In this two-day workshop, we cover survey protocols and analytical methods for d
 
 ## Timing
 
-11th and 12th January 2021, 17:00-19:30 GMT.  [Follow this link to find the time of day this is in your time zone.](https://www.timeanddate.com/worldclock/fixedtime.html?msg=MRDS+workshop&iso=20210111T17&p1=3853&ah=2&am=30) 
+30th and 31st August 2021, 15:00-17:30 British Summer Time (BST - i.e., GMT+1).  [Follow this link to find the time of day this is in your time zone.](https://www.timeanddate.com/worldclock/fixedtime.html?msg=MRDS+workshop+August+2021&iso=20210830T15&p1=304&ah=2&am=30) 
 
 ## Enrollment limit
 
@@ -39,16 +39,24 @@ The workshop will be a mix of live online interactive sessions, delivered via vi
 *	Day 2.  Dealing explicitly with availability bias.  In some contexts, availability bias may be the main source of bias, and in such situations you may need to deal with it explicitly rather than relying on MRDS methods. An extreme example is aerial video surveys of marine mammals, where it might be reasonable to assume that with sufficient care in processing video footage, perception bias in the narrow field of view of the camera(s) is negligible and that the only reason animals are missed is because they are underwater while within the camera’s view. We will describe a variety of methods of dealing explicitly with availability bias, in an interactive lecture covering methods ranging from applying simple availability “correction factors”, to methods that simultaneously model the availability and detection processes.  The methods will be illustrated using applications to real datasets, although at present no user-friendly software is available for participants to experiment with on their own. We will also briefly cover newly-developed methods designed for drone surveys in which duplicates are not identified.  We will finish with a question-and-answer session.
 
 ## Prerequisites
+
 You should already know about distance sampling, for example by having taken a face-to-face introductory workshop or an online workshop (either interactive or via our [free pre-recorded lectures](https://workshops.distancesampling.org/online-course/) ).  You should also have either experience using Distance for Windows, or of using R, and have the relevant software downloaded and installed in advance of the workshop.  We will offer pre-workshop group meetings to check the video-conferencing software, and that you have the software correctly installed.
 
 ## Registration and Payment
-The Registration Fee is 150.00 GBP
 
-Registration and payment is via the online store at the University of St Andrews.   To register and pay, please [follow this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/markrecapture-distance-sampling-training-workshop-live-online-1112th-january-2021) and click on the Book Event button.  
+The Registration Fee is 150.00 GBP.
+
+To register and pay, please follow [this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-distance-sampling-when-animals-are-missed-at-zero-distance-30th-31st-august-2021) and click on the Book Event button.
 
 Once you have registered, we will contact you to collect some follow-up information.
 
-Registration will close when the workshop fills, or on January 4th at the latest to allow us to run tests with participants on the video-conference system.
+Registration will close when the workshop fills, or on July 30th at the latest to allow us to run tests with participants on the video-conference system.
+
+All participants are asked to abide by our [workshop code of conduct](code-of-conduct).
+
+## Widening participation scholarship
+
+We are offering one free place on the workshop to encouraging participation by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  Please see [here](widening-participation) for more information.  The closing date for scholarship applications is June 15th.
 
 ## Enquiries
 For more information about the workshop or registration process please contact Len Thomas, email: [len.thomas@st-andrews.ac.uk](mailto:len.thomas@st-andrews.ac.uk)

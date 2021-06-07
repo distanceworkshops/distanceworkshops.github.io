@@ -26,10 +26,10 @@ The workshop instructor is [Eric Rexstad](https://www.creem.st-andrews.ac.uk/per
 We will offer this workshop 20 September - 01 October between the hours of **1600 and 1830 UK time**.  The first two hours of each session are obligatory, the last half hour is devoted to optional discussion.  Follow this link to find the [time of day this is offered in your time zone.](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Introductory+distance+sampling+workshop+September+2021&iso=20210920T16&p1=3853&ah=2&am=30)  
 
 ## Enrollment limit
-The number of participants is limited to 15 to facilitate time for questions and individual assistance with the exercises.  When the workshop fills, registration will close.  If registration closes, please contact the instructor to be notified regarding subsequent offerings.
+The number of participants is limited to 15 to facilitate time for questions and individual assistance with the exercises. 
 
 ## Format and delivery method
-The training workshop will be delivered via the internet using [Zoom software](https://zoom.us) that enables participants to use their web camera to interact with the instructor during lectures and exercises.
+The training workshop will be delivered via the internet using [Zoom software](https://zoom.us) that enables participants to interact with the instructor during lectures and exercises.
 
 The workshop will be delivered in 10 two-hour sessions. Each session will consist of an interactive lecture, a computing exercise analysing distance sampling data sets and a concluding question and answer session discussing principles and technical details of the session. Sessions will take place weekdays over a two week period.  *Note:* In addition to the daily Zoom session, we expect participants to devote time each day outside these sessions to work on the practical exercises.  Questions arising outside of the Zoom session will be answered either by email or during the next scheduled Zoom session.
 
@@ -58,11 +58,8 @@ Distance sampling concepts to be discussed include:
 ## Prerequisites
 You should have familiarity, if not proficiency, with the R programming language; code will be provided for carrying out the 9 workshop exercises.
 
-## Registration and Payment
-The registration fee is 215 GBP
-
-### Registration
-The registration deadline is **23 August 2021**.
+## Registration
+The registration fee is 215 GBP. All participants are asked to abide by our [workshop code of conduct](code-of-conduct). The registration deadline is **23 August 2021** or when the workshop fills.  If registration closes, please contact the instructor to be notified regarding subsequent offerings.
 
 ### Payment
 Payment should be made using the online store at the University of St Andrews.
@@ -78,6 +75,10 @@ Payment should be made using the online store at the University of St Andrews.
 ***
 
 "I’m really enjoying the course! It has really helped with my understanding of some of the basic concepts. My R education has been very sporadic and with very little guidance, so this has been really good for me. So glad it was offered!" —  Rebecca, <em>United States</em>
+
+## Widening participation scholarship
+
+We are offering one free place on the workshop to encouraging participation by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  Please see [here](widening-participation) for more information.  The closing date for scholarship applications is 25 June 2021.
 
 ## Enquiries
 

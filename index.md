@@ -28,10 +28,9 @@ The following workshops are open for registration (or will be open shortly).  We
 
 ### Autumn and Winter 2021
 
-We are also hoping to offer the following workshops later in 2021:
-
+- [*Distance Live introductory online workshop*](intro-sep-2021) 20 Sept - 01 Oct 2021.
+  - Registration link to be available in late June
 - *Camera trap distance sampling*
-- *Distance Live introductory online workshop*
 
 ## Widening participation scholarships
 

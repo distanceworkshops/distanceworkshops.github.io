@@ -16,7 +16,7 @@ Does the following describe your situation?
 If so, consider taking the live online version of our distance sampling training.
 
 ## Overview
-Training in distance sampling design and analysis has been conducted in St Andrews for the past 25 years. In addition, training materials and video lectures were placed online in 2018 and have been visited by >12000 users in the past 3 years.
+Training in distance sampling design and analysis has been conducted in St Andrews for the past 25 years. In addition, training materials and video lectures were placed online in 2018 and have been visited by >13000 users in the past 3 years.
 We now offer these lectures, discussions and exercises in an interactive format, enabling participants to engage in lectures, conduct guided analyses of data sets and ask questions of the instructor.
 
 ## Instructor
@@ -62,8 +62,7 @@ You should have familiarity, if not proficiency, with the R programming language
 The registration fee is 215 GBP. All participants are asked to abide by our [workshop code of conduct](code-of-conduct). The registration deadline is **23 August 2021** or when the workshop fills.  If registration closes, please contact the instructor to be notified regarding subsequent offerings.
 
 ### Payment
-Payment should be made using the online store at the University of St Andrews.
-[Please follow this link to make payment for the workshop to be held from 20 Sept - 01 Oct 2021](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/introductory-distance-sampling-training-workshop-live-online-12th-23rd-april-2021)
+Payment should be made using the online store at the University of St Andrews. Link to make payment for the workshop to be held from 20 Sept - 01 Oct 2021 will be activated near the end of June.
 
 ## Testimonials
 “I really like your teaching style. The pace is steady enough for ample note taking, but quick enough to keep my attention span. The humour gets me chuckling alone at my desk. The concepts are so easy to understand and relate to. Some of these concepts I’ve been aware of for a long time in a kind of ‘working knowledge’ way, but hearing you describe the theory behind them is giving me a lot of ‘oh yeah!’ moments. It is a real pleasure and is giving me a lot to think about for my own teaching.”  — Dr Sarah Marley, <em>University of Portsmouth</em>

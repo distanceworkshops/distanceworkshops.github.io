@@ -29,8 +29,8 @@ The following workshops are open for registration (or will be open shortly).  We
 ### Autumn and Winter 2021
 
 - [*Distance Live introductory online workshop*](intro-sep-2021) 20 Sept - 01 Oct 2021.
-  - Registration link to be available in late June
-- *Camera trap distance sampling*
+  - [Registration link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-live-workshop-introductory-distance-sampling-20th-september-1st-october-2021)
+- *Camera trap distance sampling October 2021*
 
 ## Widening participation scholarships
 

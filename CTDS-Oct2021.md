@@ -6,7 +6,7 @@ layout: index
 
 # Online workshop: analysis of camera trap data with distance sampling, October 2021
 
-Are you concerned about missing animals on the transect line or point?  This is the workshop for you!
+Camera traps are widely used for studying terrestrial animal populations.  Several methods exist for analysis of camera trap data to estimate animal abundance.  Use of distance sampling theory for analysis of camera trap data does not require identification of individual animals to estimate abundance.  This workshop, through lecture and computer exercises, provides training in the analysis of camera trap data to produce abundance estimates.
 
 ## Overview
 
@@ -33,14 +33,15 @@ The workshop will be a mix of live online interactive sessions, delivered via vi
 
 ## Content
 
--	Day 1.  Mark recapture distance sampling.  The session will begin with an interactive lecture.  We introduce the general problem area of missing animals at distance zero and its implications for abundance estimation, before moving on to solutions based on mark-recapture distance sampling (MRDS, also called double-platform distance sampling).  MRDS is designed to deal with perception bias and, in some circumstances, availability bias.  After introducing the concepts, we review the available software for estimation.  We then take a break from the videoconference for you to undertake a computer exercise (with online text-based support if required).  We reconvene on video to discuss the exercise, before moving to a second interactive lecture where we deal with further topics including a review of assumptions, methods for duplicate identification and point transect methods.  We close with a discussion session.
--	Day 2.  Dealing explicitly with availability bias.  In some contexts, availability bias may be the main source of bias, and in such situations you may need to deal with it explicitly rather than relying on MRDS methods. An extreme example is aerial video surveys of marine mammals, where it might be reasonable to assume that with sufficient care in processing video footage, perception bias in the narrow field of view of the camera(s) is negligible and that the only reason animals are missed is because they are underwater while within the camera’s view. We will describe a variety of methods of dealing explicitly with availability bias, in an interactive lecture covering methods ranging from applying simple availability “correction factors”, to methods that simultaneously model the availability and detection processes.  The methods will be illustrated using applications to real datasets, although at present no user-friendly software is available for participants to experiment with on their own. We will also briefly cover newly-developed methods designed for drone surveys in which duplicates are not identified.  We will finish with a question-and-answer session.
--	Day 3. 
+-	Day 1.  Provides the foundation of distance sampling.  The first computer exercise focuses upon analysis of point transect data (from a songbird survey) to initiate participants in fitting detection functions, assess model fit and performing model selection. The second half of the session describes fundamentals of applying distance sampling analyses to camera trapping data.  The computer exercise associated with this topic (and subsequent topics) uses data on Maxwell's duikers from the 2018 paper:
+    -	 Howe, E. J., Buckland, S. T., Després-Einspenner, M.-L., & Kühl, H. S. (2018). Distance sampling with camera traps. Methods in Ecology and Evolution, 8, 1558–1565. https://doi.org/10.1111/2041-210X.12790@10.1111/(ISSN)2041-210x.PracticalToolsFieldMethodsMEE32018
+-	Day 2.  This day (as with day's 3 and 4) begin with a question and answer session. The first lecture/exercise topic of the day deals with design of camera trapping surveys. The second half of the day is devoted to the special problem of model selection that arises with camera trapping data, possibly caused by over-dispersion in the distribution of detection distances.  Methods for refining model selection in this situation is described and applied to the duiker analysis from Day 1.
+-	Day 3. After the question and answer session, the first topic of Day 3 is assessing temporal availability of the study animal and ways to incorporate the estimate of temporal availability (and the uncertainty in that estimate) in the estimation of animal abundance.  The second half of the day's session is devoted to practical matters of conducting a camera trapping survey in the field.  There is no practical exercise for this topic, time instead is devoted to discussion among the participants.
 -	Day 4.
 
 ## Prerequisites
 
-You should already know about distance sampling, for example by having taken a face-to-face introductory workshop or an online workshop (either interactive or via our [free pre-recorded lectures](https://workshops.distancesampling.org/online-course/) ).  You should also have modest experience using R. We will offer pre-workshop group meetings to check the video-conferencing software.
+You should already know about distance sampling, for example by having taken a face-to-face introductory workshop or an online workshop (either interactive or via our [free pre-recorded lectures](https://workshops.distancesampling.org/online-course/)).  You should also have modest experience using R. We will offer pre-workshop group meetings to check the video-conferencing software.
 
 ## Registration and Payment
 
@@ -50,7 +51,7 @@ To register and pay, please follow this link and click on the Book Event button.
 
 Once you have registered, we will contact you to collect some follow-up information.
 
-Registration will close when the workshop fills, or 20 August 2021, whichever is first to run tests with participants on the video-conference system.
+Registration will close when the workshop fills, or 20 August 2021, whichever comes first, to run tests with participants on the video-conference system.
 
 All participants are asked to abide by our [workshop code of conduct](code-of-conduct).
 

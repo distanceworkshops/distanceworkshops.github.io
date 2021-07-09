@@ -34,10 +34,10 @@ The workshop will be a mix of live online interactive sessions, delivered via vi
 ## Content
 
 -	Day 1.  Provides the foundation of distance sampling.  The first computer exercise focuses upon analysis of point transect data (from a songbird survey) to initiate participants in fitting detection functions, assess model fit and performing model selection. The second half of the session describes fundamentals of applying distance sampling analyses to camera trapping data.  The computer exercise associated with this topic (and subsequent topics) uses data on Maxwell's duikers from the 2018 paper:
-    -	 Howe, E. J., Buckland, S. T., Després-Einspenner, M.-L., & Kühl, H. S. (2018). Distance sampling with camera traps. Methods in Ecology and Evolution, 8, 1558–1565. https://doi.org/10.1111/2041-210X.12790@10.1111/(ISSN)2041-210x.PracticalToolsFieldMethodsMEE32018
+    -	 Howe, E. J., Buckland, S. T., Després-Einspenner, M.-L., & Kühl, H. S. (2018). Distance sampling with camera traps. Methods in Ecology and Evolution **8**:1558–1565. https://doi.org/10.1111/2041-210X.12790@10.1111/(ISSN)2041-210x.PracticalToolsFieldMethodsMEE32018
 -	Day 2.  This day (as with day's 3 and 4) begin with a question and answer session. The first lecture/exercise topic of the day deals with design of camera trapping surveys. The second half of the day is devoted to the special problem of model selection that arises with camera trapping data, possibly caused by over-dispersion in the distribution of detection distances.  Methods for refining model selection in this situation is described and applied to the duiker analysis from Day 1.
--	Day 3. After the question and answer session, the first topic of Day 3 is assessing temporal availability of the study animal and ways to incorporate the estimate of temporal availability (and the uncertainty in that estimate) in the estimation of animal abundance.  The second half of the day's session is devoted to practical matters of conducting a camera trapping survey in the field.  There is no practical exercise for this topic, time instead is devoted to discussion among the participants.
--	Day 4.
+-	Day 3. After the question and answer session, the first topic of this day is assessing temporal availability of the study animal and ways to incorporate the estimate of temporal availability (and the uncertainty in that estimate) in the estimation of animal abundance.  The second half of the day's session is devoted to practical matters of conducting a camera trapping survey in the field.  There is no practical exercise for this topic, time instead is devoted to discussion among the participants.
+-	Day 4. Following an open question and answer session, there will be two periods to discuss *special topics*.  Those are topics nominated by participants for additional discussion, lead by the instructors. Following a break, the workshop concludes with additiona time to use as instructors determine. 
 
 ## Prerequisites
 
@@ -45,11 +45,9 @@ You should already know about distance sampling, for example by having taken a f
 
 ## Registration and Payment
 
-The Registration Fee is 150GBP.
+The Registration Fee is 270GBP.
 
-To register and pay, please follow this link and click on the Book Event button.
-
-Once you have registered, we will contact you to collect some follow-up information.
+To register and pay, please follow this link and click on the Book Event button. Once you have registered, we will contact you to collect some follow-up information.
 
 Registration will close when the workshop fills, or 20 August 2021, whichever comes first, to run tests with participants on the video-conference system.
 

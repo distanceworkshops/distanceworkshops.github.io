@@ -10,7 +10,7 @@ Camera traps are widely used for studying terrestrial animal populations.  Sever
 
 ## Overview
 
-
+This is the first of a pair of planned workshops, with the second expected to take place in March 2022 and be like the first except using Distance for Windows software to perform analyses.  The training workshop is intended to teach the fundamental principles of design and analysis of animal abundance using data derived from camera traps.  In association with the principles, computer exercises will guide participants through survey design, fitting detection functions to detections, performing model selection, estimating temporal availability of animals and computing measures of uncertainty.
 
 ## Instructors
 
@@ -21,7 +21,7 @@ Camera traps are widely used for studying terrestrial animal populations.  Sever
 
 ## Timing
 
-18th and 21st October 2021, 15:00-17:30 UK time.
+18th and 21st October 2021, 14:00-17:00 UK time.  To find the time in your location, follow [this link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Analysis+of+camera+trap+data+using+distance+sampling+training+workshop+&iso=20211018T14&p1=3853&ah=3) to a universal time converter.
 
 ## Enrollment limit
 
@@ -29,7 +29,7 @@ Registration is limited to 15 participants, to allow us to run the workshop with
 
 ## Format and Delivery method
 
-The workshop will be a mix of live online interactive sessions, delivered via videoconference software (Microsoft Teams), and computer exercises.   There will be four sessions, on successive days, each lasting three hours. In addition, there will be practical exercises to be attempted outside of the meetings.  The practicals will be carried out in R, using the facility of RStudio/Cloud.  This will alleviate the need to install necessary R packages on personal computers.  However, use of RStudio/Cloud does require reasonable internet bandwidth.
+The workshop will be a mix of live online interactive sessions, delivered via videoconference software (Microsoft Teams) and computer exercises.   There will be four sessions, on successive days, each lasting three hours. In addition, there will be practical exercises to be attempted outside of the meetings.  The practicals will be carried out in R, using the facility of RStudio/Cloud.  This will alleviate the need to install necessary R packages on personal computers.  However, use of RStudio/Cloud does require reasonable internet bandwidth.
 
 ## Content
 
@@ -41,7 +41,7 @@ The workshop will be a mix of live online interactive sessions, delivered via vi
 
 ## Prerequisites
 
-You should already know about distance sampling, for example by having taken a face-to-face introductory workshop or an online workshop (either interactive or via our [free pre-recorded lectures](https://workshops.distancesampling.org/online-course/)).  You should also have modest experience using R. We will offer pre-workshop group meetings to check the video-conferencing software.
+You should already understand distance sampling concepts, for example by having taken a face-to-face introductory workshop or an online workshop (either interactive or via our [free pre-recorded lectures](https://workshops.distancesampling.org/online-course/)).  You should also have modest experience using R. We will offer pre-workshop group meetings to check the video-conferencing software.
 
 ## Registration and Payment
 

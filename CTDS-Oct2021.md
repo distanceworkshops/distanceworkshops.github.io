@@ -49,7 +49,7 @@ The Registration Fee is 270GBP.
 
 To register and pay, please follow this link and click on the Book Event button. Once you have registered, we will contact you to collect some follow-up information.
 
-Registration will close when the workshop fills, or on 20 August 2021, whichever comes first. Tests with participants on the video-conference system will be run during the two week preceding the workshop.
+Registration will close when the workshop fills, or on 03 September 2021, whichever comes first. Tests with participants on the video-conference system will be run during the two week preceding the workshop.
 
 All participants are asked to abide by our [workshop code of conduct](code-of-conduct).
 

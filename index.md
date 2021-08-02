@@ -15,16 +15,16 @@ Here you can find content for distance sampling workshops including slides, exer
 
 ## Forthcoming interactive workshops
 
-The following workshops are open for registration (or will be open shortly).  We will post further updates here, on [Twitter](http://twitter.com/distancesamp) and on the [distance sampling mailing list](https://groups.google.com/forum/#!forum/distance-sampling).
+The following workshops are currently planned.  We will post further updates here, on [Twitter](http://twitter.com/distancesamp) and on the [distance sampling mailing list](https://groups.google.com/forum/#!forum/distance-sampling).
 
 ### Summer 2021
 
 - [*Spatially explicit models for distance sampling data: density surface modelling in practice*](dsm-advert), 16th-20th August 2021 
-  - [Registration link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/spatially-explicit-models-for-distance-sampling-data-training-workshop-live-online-1620-august-2021)
+  - Registration now closed
 - [*Distance sampling when animals are missed at zero distance*](mrds-aug-2021), 30th-31st August 2021.
-  - [Registration link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-distance-sampling-when-animals-are-missed-at-zero-distance-30th-31st-august-2021)
+  - Registration now closed
 - [*A practical guide to distance sampling survey design and simulation*](design-sept-2021), 13th, 14th and 16th September 2021.
-  - [Registration link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-a-practical-guide-to-distance-sampling-survey-design-simulation-13th16th-sept-21)
+  - Registration now closed
 
 ### Autumn and Winter 2021
 

@@ -19,7 +19,7 @@ The following workshops are currently planned.  We will post further updates her
 
 ### Summer 2021
 
-- [*Spatially explicit models for distance sampling data: density surface modelling in practice*](dsm-advert), 16th-20th August 2021 
+- [*Spatially explicit models for distance sampling data: density surface modelling in practice*](online-dsm-2021/), 16th-20th August 2021
   - Registration now closed
 - [*Distance sampling when animals are missed at zero distance*](mrds-aug-2021), 30th-31st August 2021.
   - Registration now closed

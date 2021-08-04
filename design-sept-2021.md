@@ -47,15 +47,15 @@ You should already know about distance sampling survey design, for example by ha
 
 ## Registration and Payment
 
-Registration for this workshop is now closed.
+<!--Registration for this workshop is now closed.-->
 
-<!--The Registration Fee is 175.00 GBP
+The Registration Fee is 175.00 GBP
 
 Registration and payment is via the online store at the University of St Andrews. To register and pay, please follow [this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-a-practical-guide-to-distance-sampling-survey-design-simulation-13th16th-sept-21) and click on the Book Event button.  
 
 Once you have registered, we will contact you to collect some follow-up information.
 
-Registration will close when the workshop fills, or on July 30th at the latest to allow us to run tests with participants on the video-conference system.-->
+Registration will close when the workshop fills, or on August 7th at the latest to allow us to run tests with participants on the video-conference system.
 
 All participants are asked to abide by our [workshop code of conduct](code-of-conduct).
 

@@ -31,7 +31,7 @@ The following workshops are currently planned.  We will post further updates her
 - [*Distance Live introductory online workshop*](intro-sep-2021) 20 Sept - 01 Oct 2021.
   - Workshop now full, email [Eric Rexstad](mailto:er26@st-andrews.ac.uk) to express interest for January 2022 offering of this workshop
 - [*Camera trap distance sampling October 2021*](CTDS-Oct2021) 18 - 21 Oct 2021.
-  - [Registration link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-analysis-of-camera-trap-data-with-distance-sampling-18th-21st-october-2021) 
+  - Registration now closed 
 
 ## Widening participation scholarships
 

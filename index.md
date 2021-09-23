@@ -40,7 +40,7 @@ Some previous workshops from 2019 onwards, are shown here. Links, where given, a
 
 - *A practical guide to distance sampling survey design and simulation*, 13th, 14th and 16th September 2021.
 - *Distance sampling when animals are missed at zero distance*, 30th-31st August 2021.
-- *Spatially explicit models for distance sampling data: density surface modelling in practice*, 16th-20th August 2021.
+- [*Spatially explicit models for distance sampling data: density surface modelling in practice*](online-dsm-2021/), 16th-20th August 2021.
 - *Distance Live introductory online workshop* online, 12th-23rd April 2021.
 - *A practical guide to distance sampling survey design and simulation* online, 15th-17th March 2021. 
 - *Spatially explicit models for distance sampling data: density surface modelling in practice* online, 8th-12th March 2021. 

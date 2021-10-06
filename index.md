@@ -19,8 +19,6 @@ The following workshops are currently planned.  We will post further updates her
 
 ### Autumn 2021
 
-- [*Distance Live introductory online workshop*](intro-sep-2021) 20 Sept - 01 Oct 2021.
-  - Workshop now full, email [Eric Rexstad](mailto:er26@st-andrews.ac.uk) to express interest for January 2022 offering of this workshop
 - [*Camera trap distance sampling October 2021*](CTDS-Oct2021) 18 - 21 Oct 2021.
   - Registration now closed 
 
@@ -38,6 +36,7 @@ All instructors and participants are required to adhere to our [code of conduct]
 
 Some previous workshops from 2019 onwards, are shown here. Links, where given, are to workshop material.
 
+- *Distance Live introductory online workshop* 20 Sept - 01 Oct 2021.
 - *A practical guide to distance sampling survey design and simulation*, 13th, 14th and 16th September 2021.
 - *Distance sampling when animals are missed at zero distance*, 30th-31st August 2021.
 - [*Spatially explicit models for distance sampling data: density surface modelling in practice*](online-dsm-2021/), 16th-20th August 2021.

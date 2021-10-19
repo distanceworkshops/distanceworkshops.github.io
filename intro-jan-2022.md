@@ -23,7 +23,7 @@ We now offer these lectures, discussions and exercises in an interactive format,
 The workshop instructor is [Eric Rexstad](https://www.creem.st-andrews.ac.uk/person/er26/)
 
 ## Timing
-We will offer this workshop 10-21 January 2022 between the hours of **1500 and 1730 UK time**.  The first two hours of each session are obligatory, the last half hour is devoted to optional discussion.  Follow this link to find the [time of day this is offered in your time zone.](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Introductory+distance+sampling+workshop+September+2021&iso=20210920T16&p1=3853&ah=2&am=30)  
+We will offer this workshop 10-21 January 2022 between the hours of **1500 and 1730 UK time**.  The first two hours of each session are obligatory, the last half hour is devoted to optional discussion.  Follow this link to find the [time of day this is offered in your time zone.](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Introductory+distance+sampling+workshop+St+Andrews&iso=20220110T15&p1=3853&ah=2&am=30)  
 
 ## Enrollment limit
 The number of participants is limited to 15 to facilitate time for questions and individual assistance with the exercises. 

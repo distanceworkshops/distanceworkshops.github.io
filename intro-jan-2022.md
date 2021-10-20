@@ -16,7 +16,7 @@ Does the following describe your situation?
 If so, consider taking the live online version of our distance sampling training.
 
 ## Overview
-Training in distance sampling design and analysis has been conducted in St Andrews for the past 25 years. In addition, training materials and video lectures were placed online in 2018 and have been visited by >13000 users in the past 3 years.
+Training in distance sampling design and analysis has been conducted in St Andrews for the past 25 years. In addition, training materials and video lectures were placed online in 2018 and have been visited by >14000 users in the past 3 years.
 We now offer these lectures, discussions and exercises in an interactive format, enabling participants to engage in lectures, conduct guided analyses of data sets and ask questions of the instructor.
 
 ## Instructor

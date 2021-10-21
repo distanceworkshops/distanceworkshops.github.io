@@ -22,7 +22,9 @@ The following workshops are currently planned.  We will post further updates her
 - [*Camera trap distance sampling October 2021*](CTDS-Oct2021) 18 - 21 Oct 2021.
   - Registration now closed 
 
-We are currently working on our offerings for 2022 - watch this space!
+### 2022
+
+In 2022, we are planning to offer a series of live introductory workshops, as well as a set of more specialized workshops, and will publish a timetable shortly.  As with 2021, all workshop we are currently planning will be online.
 
 ## Widening participation scholarships
 

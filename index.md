@@ -21,7 +21,8 @@ The following workshops are currently planned.  We will post further updates her
 
 - Introductory distance sampling training workshop 10-21 January 2022
   - Applications for [widening participation schoarship](widening-participation) now open; closes 05 November 2021
-  - Registration opening soon
+  - Registration now open, details at http://workshops.distancesampling.org/intro-jan-2022
+  - Registration closes _06 December 2021_
 
 ### 2022
 
@@ -29,7 +30,7 @@ In 2022, we are planning to offer a series of live introductory workshops, as we
 
 ## Widening participation scholarships
 
-We are committed to encouraging participation in our distance sampling workshops by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science. To this end, we will donate one free place on most workshops, covering the cost of the registration fee.  For more information about the scheme, plese see our [widening participation schoarship](widening-participation) page.  
+We are committed to encouraging participation in our distance sampling workshops by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science. To this end, we will donate one free place on most workshops, covering the cost of the registration fee.  For more information about the scheme, please see our [widening participation schoarship](widening-participation) page.  
 
 ## Workshop code of conduct
 

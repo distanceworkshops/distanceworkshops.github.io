@@ -20,7 +20,7 @@ The following workshops are currently planned.  We will post further updates her
 ### Winter 2022
 
 - Introductory distance sampling training workshop 10-21 January 2022
-  - Applications for [widening participation schoarship](widening-participation) now open; closes 05 November 2021
+  - Applications for [widening participation schoarship](widening-participation) now closed.
   - Registration now open, details at http://workshops.distancesampling.org/intro-jan-2022
   - Registration closes _06 December 2021_
 

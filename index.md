@@ -17,16 +17,11 @@ Here you can find content for distance sampling workshops including slides, exer
 
 The following workshops are currently planned.  We will post further updates here, on [Twitter](http://twitter.com/distancesamp) and on the [distance sampling mailing list](https://groups.google.com/forum/#!forum/distance-sampling).
 
-### Winter 2022
+- [Introductory distance sampling training workshop 10-21 January 2022](http://workshops.distancesampling.org/intro-jan-2022)
+  - This workshop will take place online, and will be a mixture of live lectures and computer exercises 
+  - Registration now open; registration closes _06 December 2021_
 
-- Introductory distance sampling training workshop 10-21 January 2022
-  - Applications for [widening participation schoarship](widening-participation) now closed.
-  - Registration now open, details at http://workshops.distancesampling.org/intro-jan-2022
-  - Registration closes _06 December 2021_
-
-### 2022
-
-In 2022, we are planning to offer a series of live introductory workshops, as well as a set of more specialized workshops, and will publish a timetable shortly.  As with 2021, all workshop we are currently planning will be online.
+We plan to offer further online workshops later 2022, and will publish a timetable shortly.
 
 ## Widening participation scholarships
 

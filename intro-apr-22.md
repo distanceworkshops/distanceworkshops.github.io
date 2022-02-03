@@ -61,8 +61,7 @@ You should have familiarity, if not proficiency, with the R programming language
 The registration fee is 215 GBP. All participants are asked to abide by our [workshop code of conduct](code-of-conduct). Registration will open soon, please contact the instructor to be notified.
 
 ### Payment
-Payment should be made using the online store at the University of St Andrews. The workshop is full and registration is now closed.
-
+Payment should be made using the online store at the University of St Andrews. The online registration system will open in mid-February.
 ## Testimonials
 “I really like your teaching style. The pace is steady enough for ample note taking, but quick enough to keep my attention span. The humour gets me chuckling alone at my desk. The concepts are so easy to understand and relate to. Some of these concepts I’ve been aware of for a long time in a kind of ‘working knowledge’ way, but hearing you describe the theory behind them is giving me a lot of ‘oh yeah!’ moments. It is a real pleasure and is giving me a lot to think about for my own teaching.”  — Dr Sarah Marley, <em>University of Portsmouth</em>
 

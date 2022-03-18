@@ -20,7 +20,7 @@ The following workshops are currently planned.  We will post further updates her
 - [Camera trap distance sampling using Distance for Windows 21-25 March 2022](http://workshops.distancesampling.org/CTDS-Mar2022.html)
   - *Workshop fully booked*
 - [Distance Live introductory online workshop 11-22 April 2022](http://workshops.distancesampling.org/intro-apr-22.html)
-  - Registration now **open**, closing date 17 March 2022
+  - Registration now **closed**
 
 We plan to offer further online workshops later 2022, and will publish a timetable shortly.
 

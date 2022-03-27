@@ -17,8 +17,6 @@ Here you can find content for distance sampling workshops including slides, exer
 
 The following workshops are currently planned.  We will post further updates here, on [Twitter](http://twitter.com/distancesamp) and on the [distance sampling mailing list](https://groups.google.com/forum/#!forum/distance-sampling).
 
-- [Camera trap distance sampling using Distance for Windows 21-25 March 2022](http://workshops.distancesampling.org/CTDS-Mar2022.html)
-  - *Workshop fully booked*
 - [Distance Live introductory online workshop 11-22 April 2022](http://workshops.distancesampling.org/intro-apr-22.html)
   - Registration now **closed**
 
@@ -36,6 +34,7 @@ All instructors and participants are required to adhere to our [code of conduct]
 
 Some previous workshops from 2019 onwards, are shown here. Links, where given, are to workshop material.
 
+- *Camera trap distance sampling using Distance for Windows* 21st - 25th March 2022.
 - *Distance Live introductory online workshop* 10th - 21st Jan 2022.
 - *Camera trap distance sampling October 2021* 18th - 21st Oct 2021.
 - *Distance Live introductory online workshop* 20 Sept - 01 Oct 2021.

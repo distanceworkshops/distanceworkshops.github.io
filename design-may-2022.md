@@ -21,10 +21,9 @@ Laura Marshall and Len Thomas
 ## Timing
 
 * 9th May 15:00 - 17:00 British summer time (BST - i.e., GMT+1)
+* 10th May 15:00 - 17:00 BST
 * 1-day gap for self-study
-* 11th May 15:30 - 17:00 BST
-* 1-day gap for self-study
-* 13th May 15:30 - 17:00 BST 
+* 12th May 15:00 - 17:00 BST 
 
 ## Enrollment limit
 
@@ -56,13 +55,13 @@ Registration and payment is via the online store at the University of St Andrews
 
 Once you have registered, we will contact you to collect some follow-up information.
 
-Registration will close when the workshop fills, or on May 4th at the latest to allow us to run tests with participants on the video-conference system.-->
+Registration will close when the workshop fills, or on April 29th at the latest to allow us to run tests with participants on the video-conference system.-->
 
 All participants are asked to abide by our [workshop code of conduct](code-of-conduct).
 
 ## Widening participation scholarship
 
-We are offering one free place on the workshop to encouraging participation by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  Please see [here](widening-participation) for more information.  The closing date for scholarship applications is April 8th.
+We are offering one free place on the workshop to encouraging participation by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  Please see [here](widening-participation) for more information.  The closing date for scholarship applications is April 18th.
 
 ## Enquiries
 

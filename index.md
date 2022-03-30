@@ -1,7 +1,6 @@
 ---
-title: Distance Sampling Workshops
+title: "Distance Sampling Workshops"
 layout: index
-
 ---
 
 # Distance Sampling Workshops
@@ -16,6 +15,14 @@ Here you can find content for distance sampling workshops including slides, exer
 ## Forthcoming interactive workshops
 
 The following workshops are currently planned.  We will post further updates here, on [Twitter](http://twitter.com/distancesamp) and on the [distance sampling mailing list](https://groups.google.com/forum/#!forum/distance-sampling).
+
+- [A practical guide to distance sampling survey design and simulation 9-12 May 2022](https://workshops.distancesampling.org/design-may-2022.html)
+  - Registration opening soon
+  - Now accepting applications for the widening participation place
+  
+- [Distance sampling when animals are missed at zero distance 17-18 May 2022](https://workshops.distancesampling.org/mrds-may-2022.html)
+  - Registration opening soon 
+  - Now accepting applications for the widening participation place
 
 - [Distance Live introductory online workshop 11-22 April 2022](http://workshops.distancesampling.org/intro-apr-22.html)
   - Registration now **closed**

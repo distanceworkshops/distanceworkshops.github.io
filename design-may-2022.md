@@ -31,7 +31,7 @@ Laura Marshall and Len Thomas
 
 ## Format and Delivery method
 
-The workshop will be a mix of live online interactive sessions, delivered via videoconference software (Microsoft Teams), and computer exercises. There will be three live sessions in total, with a total class time of 5 hours (including breaks) and two additional computer exercises to complete. It is advisable to allow around an hour and a half between teaching days 1 and 2, and days 2 and 3 to complete these exercises. We have scheduled the workshop such that there are non-teaching days between the teaching days for completing the exercises. The exercises are in `R` using the `dssd` and `dsims` packages.  We will demonstrate the use of QGIS, but it is not required on particpant's computers.
+The workshop will be a mix of live online interactive sessions, delivered via videoconference software (Microsoft Teams), and computer exercises. There will be three sessions in total, with a total class time of 6 hours (including breaks) and two additional computer exercises to complete. It is advisable to allow around an hour and a half between days 1 and 2, and days 2 and 3 to complete these exercises. The exercises are in `R` using the `dssd` and `dsims` packages.  We will demonstrate the use of QGIS, but it is not required on particpant's computers.
 
 ## Content
 

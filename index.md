@@ -11,13 +11,9 @@ Here you can find content for distance sampling workshops including slides, exer
 
 [Online distance sampling introductory workshop](online-course): a full introductory workshop, including recorded video lectures, exercises and quizzes.
 
-
 ## Forthcoming interactive workshops
 
 Our spring workshop series is as follows:
-
-- [Distance Live introductory online workshop 11-22 April 2022](http://workshops.distancesampling.org/intro-apr-22.html)
-  - Registration now **closed**
 
 - [A practical guide to distance sampling survey design and simulation 9-12 May 2022](https://workshops.distancesampling.org/design-may-2022.html)
   - Registration **open**.
@@ -43,6 +39,7 @@ All instructors and participants are required to adhere to our [code of conduct]
 
 Some previous workshops from 2019 onwards, are shown here. Links, where given, are to workshop material.
 
+- *Distance Live introductory online workshop* 11th - 22nd April 2022.
 - *Camera trap distance sampling using Distance for Windows* 21st - 25th March 2022.
 - *Distance Live introductory online workshop* 10th - 21st Jan 2022.
 - *Camera trap distance sampling October 2021* 18th - 21st Oct 2021.

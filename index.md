@@ -16,10 +16,10 @@ Here you can find content for distance sampling workshops including slides, exer
 Our spring workshop series is as follows:
 
 - [A practical guide to distance sampling survey design and simulation 9-12 May 2022](https://workshops.distancesampling.org/design-may-2022.html)
-  - Registration **open**.
+  - Registration now closed.
   
 - [Distance sampling when animals are missed at zero distance 17-18 May 2022](https://workshops.distancesampling.org/mrds-may-2022.html)
-  - Registration **open**.
+  - Registration now closed.
  
 We are planning the following workshop in the autumn:
 

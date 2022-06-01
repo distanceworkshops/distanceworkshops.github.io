@@ -13,19 +13,15 @@ Here you can find content for distance sampling workshops including slides, exer
 
 ## Forthcoming interactive workshops
 
-Our spring workshop series is as follows:
+We are planning the following workshops in the autumn:
 
-- [A practical guide to distance sampling survey design and simulation 9-12 May 2022](https://workshops.distancesampling.org/design-may-2022.html)
-  - Registration now closed.
-  
-- [Distance sampling when animals are missed at zero distance 17-18 May 2022](https://workshops.distancesampling.org/mrds-may-2022.html)
-  - Registration now closed.
- 
-We are planning the following workshop in the autumn:
+- Distance Live introductory online workshop, dates TBC
+- Camera trap distance sampling, 19-23 September 2022
+- Distance sampling when animals are missed at zero distance, dates TBC
+- A practical guide to distance sampling survey design and simulation, dates TBC
+- Spatially explicit models for distance sampling data: density surface modelling in practice, TBC
 
-- Camera trap distance sampling 19-23 September 2022
-
-We may also teach further workshops later in the year.  We will post further updates here, on [Twitter](http://twitter.com/distancesamp) and on the [distance sampling mailing list](https://groups.google.com/forum/#!forum/distance-sampling).
+We are also in the early stages of planning workshops for spring 2023.  We will post further updates here, on [Twitter](http://twitter.com/distancesamp) and on the [distance sampling mailing list](https://groups.google.com/forum/#!forum/distance-sampling).
 
 ## Widening participation scholarships
 
@@ -39,6 +35,8 @@ All instructors and participants are required to adhere to our [code of conduct]
 
 Some previous workshops from 2019 onwards, are shown here. Links, where given, are to workshop material.
 
+- *Distance sampling when animals are missed at zero distance* 17th - 18th May 2022.
+- *A practical guide to distance sampling survey design and simulation* 9th - 12th May 2022.
 - *Distance Live introductory online workshop* 11th - 22nd April 2022.
 - *Camera trap distance sampling using Distance for Windows* 21st - 25th March 2022.
 - *Distance Live introductory online workshop* 10th - 21st Jan 2022.

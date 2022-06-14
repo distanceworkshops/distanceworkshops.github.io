@@ -58,7 +58,7 @@ Distance sampling concepts to be discussed include:
 You should have familiarity, if not proficiency, with the R programming language; code will be provided for carrying out the 9 workshop exercises.
 
 ## Registration
-The registration fee is 225 GBP. All participants are asked to abide by our [workshop code of conduct](code-of-conduct). We expect registration to open the week of 27 June 2022 and will close .
+The registration fee is 225 GBP. All participants are asked to abide by our [workshop code of conduct](code-of-conduct). We expect registration to open the week of 27 June 2022 and will close 05 August 2022.
 
 ### Payment
 Payment should be made using the online store at the University of St Andrews. When the online registration system opens; payment is made via the provided link.
@@ -75,7 +75,7 @@ Payment should be made using the online store at the University of St Andrews. W
 
 ## Widening participation scholarship
 
-We are offering one free place on the workshop to encouraging participation by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  Please see [here](widening-participation) for more information.  Applications for the April 2022 workshop will soon be accepted. Watch this space for registration details.
+We are offering one free place on the workshop to encouraging participation by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  Please see [here](widening-participation) for more information.  Applications for the August/September 2022 workshop will be accepted 27 June - 08 July 2022. Watch this space for registration details.
 
 ## Enquiries
 

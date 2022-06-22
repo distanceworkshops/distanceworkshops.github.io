@@ -62,8 +62,8 @@ You should have familiarity, if not proficiency, with the R programming language
 The registration fee is 225 GBP. All participants are asked to abide by our [workshop code of conduct](code-of-conduct). Registration is *now open* and will close **05 August 2022**.
 
 ### Payment
-Payment should be made using the online store at the University of St Andrews. Follow the link below to access the online store, register and make payment:
-https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-live-workshop-introductory-distance-sampling-29th-august-9th-september-2022
+Payment should be made using the online store at the University of St Andrews. Follow the [link to access the online store](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-live-workshop-introductory-distance-sampling-29th-august-9th-september-2022) to register and make payment:
+
 
 ## Testimonials
 “I really like your teaching style. The pace is steady enough for ample note taking, but quick enough to keep my attention span. The humour gets me chuckling alone at my desk. The concepts are so easy to understand and relate to. Some of these concepts I’ve been aware of for a long time in a kind of ‘working knowledge’ way, but hearing you describe the theory behind them is giving me a lot of ‘oh yeah!’ moments. It is a real pleasure and is giving me a lot to think about for my own teaching.”  — Dr Sarah Marley, <em>University of Portsmouth</em>

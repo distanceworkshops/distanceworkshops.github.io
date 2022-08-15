@@ -3,7 +3,7 @@ title: Workshop - Practical design and simulation to optimise distance sampling 
 layout: index
 ---
 
-# Online workshop: Practical design and simulation to optimise distance sampling surveys, May 2022
+# Online workshop: Practical design and simulation to optimise distance sampling surveys, Nov 2022
 
 ## Overview
 
@@ -20,10 +20,10 @@ Laura Marshall and Len Thomas
 
 ## Timing
 
-* 9th May 15:00 - 17:00 British summer time (BST - i.e., GMT+1)
-* 10th May 15:00 - 17:00 BST
+* 1st Nov 15:00 - 17:00 British summer time (BST - i.e., GMT+1)
+* 2nd Nov 15:00 - 17:00 BST
 * 1-day gap for self-study
-* 12th May 15:00 - 17:00 BST 
+* 4th Nov 15:00 - 17:00 BST 
 
 ## Enrollment limit
 
@@ -47,19 +47,21 @@ You should already know about distance sampling survey design, for example by ha
 
 ## Registration and Payment
 
-Registration now closed, to allow us to run tests with participants on the video-conference system.
+<!--Registration now closed, to allow us to run tests with participants on the video-conference system.-->
 
-The Registration Fee is 175.00 GBP
+Registration will open shortly.
 
-Registration and payment is via the online store at the University of St Andrews. To register and pay, please follow [this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-practical-design-and-simulation-to-optimise-distance-sampling-surveys-9th12th-may) and click on the Book Event button.  
+The Registration Fee is 210.00 GBP
 
-Once you have registered, we will contact you to collect some follow-up information.
+<!-- Registration and payment is via the online store at the University of St Andrews. To register and pay, please follow [this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-practical-design-and-simulation-to-optimise-distance-sampling-surveys-9th12th-may) and click on the Book Event button.  
+
+Once you have registered, we will contact you to collect some follow-up information.-->
 
 All participants are asked to abide by our [workshop code of conduct](code-of-conduct).
 
 ## Widening participation scholarship
 
-We are offering one free place on the workshop to encouraging participation by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  Please see [here](widening-participation) for more information.  The closing date for scholarship applications is April 18th.
+We are offering one free place on the workshop to encouraging participation by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  Please see [here](widening-participation) for more information.  The closing date for scholarship applications is September 5th.
 
 ## Enquiries
 

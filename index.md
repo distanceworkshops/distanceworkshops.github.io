@@ -18,8 +18,8 @@ We are planning the following workshops in the autumn:
 - Distance Live introductory online workshop, dates 29 August - 09 September 2022
   - Registration closed
 - Camera trap distance sampling, 19-23 September 2022
-- Distance sampling when animals are missed at zero distance, dates TBC
-- A practical guide to distance sampling survey design and simulation, dates TBC
+- Distance sampling when animals are missed at zero distance, 28 & 31 October 2022
+- A practical guide to distance sampling survey design and simulation, dates 1 - 4 November 2022
 - Spatially explicit models for distance sampling data: density surface modelling in practice, TBC
 
 We are also in the early stages of planning workshops for spring 2023.  We will post further updates here, on [Twitter](http://twitter.com/distancesamp) and on the [distance sampling mailing list](https://groups.google.com/forum/#!forum/distance-sampling).

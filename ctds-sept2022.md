@@ -51,9 +51,13 @@ You should already understand distance sampling concepts, for example by having 
 
 Registration will open shortly.
 
-<!-- The Registration Fee is 270GBP.  Registration is now open via the [Univ of St Andrews Online Shop](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-analysis-of-camera-trap-data-with-distance-sampling-21st-25th-march-2022). Registration deadline is 11 February 2022.-->
+<!-- The Registration Fee is 300GBP.  Registration is now open via the [Univ of St Andrews Online Shop](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-analysis-of-camera-trap-data-with-distance-sampling-21st-25th-march-2022). Registration deadline is 9th September 2022.-->
 
 All participants are asked to abide by our [workshop code of conduct](code-of-conduct).
+
+## Widening participation scholarship
+
+We are offering one free place on the workshop to encouraging participation by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  Please see [here](widening-participation) for more information.  The closing date for scholarship applications is 23rd August.
 
 ## Enquiries
 For more information about the workshop or registration process please contact Len Thomas, email: [len.thomas@st-andrews.ac.uk](mailto:len.thomas@st-andrews.ac.uk)

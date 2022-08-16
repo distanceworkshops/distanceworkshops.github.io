@@ -10,7 +10,7 @@ The Centre for Research into Ecological and Environmental Modelling is committed
 
 ## Eligibility
 
-Applicants must be working scientists or students who are nationals and who operate in a middle- or lower-income country (as defined by the United Nations Dept of Economic and Social Affairs – see below for list).  For online workshops, applicants must have access to internet connection and computing facilities to successfully participate.
+Applicants must be working scientists or students who are nationals of and who operate in a middle- or lower-income country (as defined by the United Nations Dept of Economic and Social Affairs – see below for list).  For online workshops, applicants must have access to internet connection and computing facilities to successfully participate.
 
 ## Application procedure
 

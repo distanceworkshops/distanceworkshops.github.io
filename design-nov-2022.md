@@ -20,10 +20,10 @@ Laura Marshall and Len Thomas
 
 ## Timing
 
-* 1st Nov 15:00 - 17:00 British summer time (BST - i.e., GMT+1)
-* 2nd Nov 15:00 - 17:00 BST
+* 1st Nov 15:00 - 17:00 GMT
+* 2nd Nov 15:00 - 17:00 GMT
 * 1-day gap for self-study
-* 4th Nov 15:00 - 17:00 BST 
+* 4th Nov 15:00 - 17:00 GMT
 
 ## Enrollment limit
 

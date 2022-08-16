@@ -22,7 +22,7 @@ In this two-day workshop, we cover survey protocols and analytical methods for d
 
 ## Timing
 
-28th and 31st October 2021, 14:30-17:30 GMT/BST (Greenwich Mean Time).  [Follow this link to find the time of day this is in your time zone.](https://www.timeanddate.com/worldclock/fixedtime.html?msg=MRDS+workshop+Oct+2022&iso=20221028T1430&p1=3853&ah=3)
+28th and 31st October 2021, 14:30-17:30 GMT/UTC (Greenwich Mean Time).  [Follow this link to find the time of day this is in your time zone.](https://www.timeanddate.com/worldclock/fixedtime.html?msg=MRDS+workshop+Oct+2022&iso=20221028T1430&p1=3853&ah=3)
 
 ## Enrollment limit
 

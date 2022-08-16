@@ -23,6 +23,7 @@ We are planning the following workshops in the autumn:
   - Open for widening participation applications; main registration opening soon!
 - [A practical guide to distance sampling survey design and simulation](design-nov-2022), 1 - 4 November 2022
   - Open for widening participation applications; main registration opening soon!
+- Distance Live introductory online workshop, dates TBC
 
 We are also in the early stages of planning workshops for spring 2023.  We will post further updates here, on [Twitter](http://twitter.com/distancesamp) and on the [distance sampling mailing list](https://groups.google.com/forum/#!forum/distance-sampling).
 

@@ -1,5 +1,5 @@
 ---
-title: Workshop - camera trap distance sampling, September 2022
+title: Workshop - camera trap distance sampling, October 2022
 layout: index
 
 ---
@@ -51,7 +51,7 @@ You should already understand distance sampling concepts, for example by having 
 
 The Registration Fee is 280.00 GBP
 
-Registration is now open via the University of St Andrews Online Shop - please follow [this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-analysis-of-camera-trap-data-with-distance-sampling-19th-20th-22nd-23rd-sept) and click on the Book Event button. The registration deadline is 9th September 2022.
+Registration is now open via the University of St Andrews Online Shop - please follow [this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-analysis-of-camera-trap-data-with-distance-sampling-19th-20th-22nd-23rd-sept) and click on the Book Event button. The registration deadline is 30th September 2022.
 
 Once you have registered, we will contact you to collect some follow-up information.
 
@@ -59,7 +59,9 @@ All participants are asked to abide by our [workshop code of conduct](code-of-co
 
 ## Widening participation scholarship
 
-We are offering one free place on the workshop to encouraging participation by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  Please see [here](widening-participation) for more information.  The closing date for scholarship applications is 23rd August.
+<!-- We are offering one free place on the workshop to encouraging participation by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  Please see [here](widening-participation) for more information.  The closing date for scholarship applications is 23rd August.-->
+
+Applications for the widening participation scholarship are now closed.
 
 ## Enquiries
 For more information about the workshop or registration process please contact Len Thomas, email: [len.thomas@st-andrews.ac.uk](mailto:len.thomas@st-andrews.ac.uk)

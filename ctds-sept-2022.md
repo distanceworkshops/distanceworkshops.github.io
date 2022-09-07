@@ -4,7 +4,7 @@ layout: index
 
 ---
 
-# Online workshop: analysis of camera trap data with distance sampling, September 2022
+# Online workshop: analysis of camera trap data with distance sampling, October 2022
 
 Camera traps are widely used for studying terrestrial animal populations.  Several methods exist for analysis of camera trap data to estimate animal abundance.  Use of distance sampling theory for analysis of camera trap data does not require identification of individual animals to estimate abundance, making it applicable to a much larger set of species.  This workshop, through lectures and computer exercises, provides training in survey design and the analysis of camera trap data to produce abundance estimates.
 
@@ -22,7 +22,7 @@ The training workshop is intended to teach the fundamental principles of design 
 
 ## Timing
 
-19th -- 23rd September 2022, 14:00-17:00 UK time (BST, British Summer Time).  To find the time in your location, follow [this link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Camera+Trap+Distance+Sampling+Workshop+Sept+2022&iso=20220919T14&p1=3853&ah=3) to a universal time converter.
+10th -- 14th October 2022, 14:00-17:00 UK time (BST, British Summer Time).  To find the time in your location, follow [this link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CTDS+Oct+2022&iso=20221010T14&p1=304&ah=3) to a universal time converter.
 
 ## Enrollment limit
 

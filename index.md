@@ -15,10 +15,8 @@ Here you can find content for distance sampling workshops including slides, exer
 
 We are planning the following workshops in the autumn:
 
-- Distance Live introductory online workshop, dates 29 August - 09 September 2022
-  - Registration closed
-- [Camera trap distance sampling](ctds-oct-2022), 10-14 October 2022
-  - [Open for registration](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-analysis-of-camera-trap-data-with-distance-sampling-19th-20th-22nd-23rd-sept) - closing date 30 September.
+ [Camera trap distance sampling](ctds-oct-2022), 10-14 October 2022
+  - [Open for registration](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-analysis-of-camera-trap-data-with-distance-sampling-10th14th-october) - closing date 30 September.
 - [Distance sampling when animals are missed at zero distance](mrds-oct-2022), 28 & 31 October 2022
   - [Open for registration](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-distance-sampling-when-animals-are-missed-at-zero-distance-28th-31st-oct-2022) - closing date 14 October.
 - [A practical guide to distance sampling survey design and simulation](design-nov-2022), 1 - 4 November 2022
@@ -39,6 +37,7 @@ All instructors and participants are required to adhere to our [code of conduct]
 
 Some previous workshops from 2019 onwards, are shown here. Links, where given, are to workshop material.
 
+- *Distance Live introductory online workshop* 29th August - 09 September 2022.
 - *Distance sampling when animals are missed at zero distance* 17th - 18th May 2022.
 - *A practical guide to distance sampling survey design and simulation* 9th - 12th May 2022.
 - *Distance Live introductory online workshop* 11th - 22nd April 2022.

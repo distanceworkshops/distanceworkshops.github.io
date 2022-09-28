@@ -8,6 +8,8 @@ layout: index
 
 Camera traps are widely used for studying terrestrial animal populations.  Several methods exist for analysis of camera trap data to estimate animal abundance.  Use of distance sampling theory for analysis of camera trap data does not require identification of individual animals to estimate abundance, making it applicable to a much larger set of species.  This workshop, through lectures and computer exercises, provides training in survey design and the analysis of camera trap data to produce abundance estimates.
 
+Update: this workshop is now full.  Please [email us](mailto:distance@st-andrews.ac.uk) if you are interested in joining a future workshop on this topic.
+
 ## Overview
 
 The training workshop is intended to teach the fundamental principles of design and analysis of animal abundance using data derived from camera traps. In association with the principles, computer exercises will guide participants through survey design, fitting detection functions to detections, performing model selection, estimating temporal availability of animals and computing measures of uncertainty.  The workshop will build upon a foundation of "conventional" distance sampling, and so workshop participants are expected to understand the basic concepts behind distance sampling before coming to the workshop (see "Prerequisites" below).
@@ -49,13 +51,16 @@ You should already understand distance sampling concepts, for example by having 
 
 ## Registration and Payment
 
-The Registration Fee is 280.00 GBP
+This workshop is now full.  Please [email us](mailto:distance@st-andrews.ac.uk) if you are interested in joining a future workshop on this topic.
+
+<!-- The Registration Fee is 280.00 GBP
 
 Registration is now open via the University of St Andrews Online Shop - please follow [this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-analysis-of-camera-trap-data-with-distance-sampling-10th14th-october) and click on the Book Event button. The registration deadline is 30th September 2022.
 
 Once you have registered, we will contact you to collect some follow-up information.
 
 All participants are asked to abide by our [workshop code of conduct](code-of-conduct).
+-->
 
 ## Widening participation scholarship
 

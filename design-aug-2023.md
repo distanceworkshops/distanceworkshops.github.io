@@ -3,7 +3,7 @@ title: Workshop - Practical design and simulation to optimise distance sampling 
 layout: index
 ---
 
-# Online workshop: Practical design and simulation to optimise distance sampling surveys, Nov 2022
+# Online workshop: Practical design and simulation to optimise distance sampling surveys, August 2023
 
 ## Overview
 
@@ -20,10 +20,10 @@ Laura Marshall and Len Thomas
 
 ## Timing
 
-* 1st Nov 15:00 - 17:00 GMT
-* 2nd Nov 15:00 - 17:00 GMT
+* 28th August 15:00 - 17:00 BST (UTC+1)
+* 29th August 15:00 - 17:00 BST (UTC+1)
 * 1-day gap for self-study
-* 4th Nov 15:00 - 17:00 GMT
+* 31st August 15:00 - 17:00 BST (UTC+1)
 
 ## Enrollment limit
 
@@ -49,9 +49,11 @@ You should already know about distance sampling survey design, for example by ha
 
 <!--Registration now closed, to allow us to run tests with participants on the video-conference system.-->
 
-The Registration Fee is 210.00 GBP
+The Registration Fee is 240.00 GBP
 
-Registration and payment is via the online store at the University of St Andrews -- please follow [this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-practical-design-simulation-to-optimise-distance-sampling-surveys-nov-2022) and click on the Book Event button.  The registration deadline is 14th October.
+Registration will open soon.
+
+<!--Registration and payment is via the online store at the University of St Andrews -- please follow [this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-practical-design-simulation-to-optimise-distance-sampling-surveys-nov-2022) and click on the Book Event button.  The registration deadline is 14th October.-->
 
 Once you have registered, we will contact you to collect some follow-up information.
 

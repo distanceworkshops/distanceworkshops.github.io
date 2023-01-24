@@ -53,7 +53,7 @@ The Registration Fee is 240.00 GBP
 
 Registration will open soon.
 
-<!--Registration and payment is via the online store at the University of St Andrews -- please follow [this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-practical-design-simulation-to-optimise-distance-sampling-surveys-nov-2022) and click on the Book Event button.  The registration deadline is 14th October.-->
+<!--Registration and payment is via the online store at the University of St Andrews -- please follow [this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-practical-design-simulation-to-optimise-distance-sampling-surveys-nov-2022) and click on the Book Event button.  The registration deadline is 14th August..-->
 
 Once you have registered, we will contact you to collect some follow-up information.
 

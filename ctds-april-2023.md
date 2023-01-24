@@ -53,7 +53,7 @@ You should already understand distance sampling concepts, for example by having 
 
 <!--This workshop is now full.  Please [email us](mailto:distance@st-andrews.ac.uk) if you are interested in joining a future workshop on this topic.-->
 
-The Registration Fee is 300.00 GBP
+The Registration Fee is 320.00 GBP
 
 <!--Registration is now open via the University of St Andrews Online Shop - please follow [this link](link goes here) and click on the Book Event button. The registration deadline is 30th September 2022.
 

@@ -55,7 +55,7 @@ You should already understand distance sampling concepts, for example by having 
 
 The Registration Fee is 320.00 GBP
 
-<!--Registration is now open via the University of St Andrews Online Shop - please follow [this link](link goes here) and click on the Book Event button. The registration deadline is 30th September 2022.
+<!--Registration is now open via the University of St Andrews Online Shop - please follow [this link](link goes here) and click on the Book Event button. The registration deadline is 20th March 2022.
 
 Once you have registered, we will contact you to collect some follow-up information.-->
 

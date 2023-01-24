@@ -1,10 +1,9 @@
 ---
-title: Workshop - distance sampling when animals are missed at zero distance, Oct 2022
-layout: index
+title: Workshop - distance sampling when animals are missed at zero distance, August 2023
 
 ---
 
-# Online workshop: distance sampling when animals are missed at zero distance, Oct 2022
+# Online workshop: distance sampling when animals are missed at zero distance, August 2023
 
 Are you concerned about missing animals on the transect line or point?  This is the workshop for you!
 
@@ -22,7 +21,7 @@ In this two-day workshop, we cover survey protocols and analytical methods for d
 
 ## Timing
 
-28th and 31st October 2021, 14:30-17:30 GMT/UTC (Greenwich Mean Time).  [Follow this link to find the time of day this is in your time zone.](https://www.timeanddate.com/worldclock/fixedtime.html?msg=MRDS+workshop+Oct+2022&iso=20221028T1430&p1=3853&ah=3)
+21st and 23rd August 2023, 14:00-17:00 BST (UTC+1)  
 
 ## Enrollment limit
 
@@ -46,9 +45,11 @@ You should already know about distance sampling, for example by having taken a f
 
 <!--Registration now closed, to allow us to run tests with participants on the video-conference system.-->
 
-The Registration Fee is 180.00 GBP.
+The Registration Fee is 205.00 GBP.
 
-Registration and payment is via the online store at the University of St Andrews -- to register and pay, please follow [this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-distance-sampling-when-animals-are-missed-at-zero-distance-28th-31st-oct-2022) and click on the Book Event button.  The registration deadline is 14th October.
+Registration will open soon.
+
+<!--Registration and payment is via the online store at the University of St Andrews -- to register and pay, please follow [this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-distance-sampling-when-animals-are-missed-at-zero-distance-28th-31st-oct-2022) and click on the Book Event button.  The registration deadline is 7th August.-->
 
 Once you have registered, we will contact you to collect some follow-up information.
 
@@ -56,7 +57,7 @@ All participants are asked to abide by our [workshop code of conduct](code-of-co
 
 ## Widening participation scholarship
 
-We are offering one free place on the workshop to encouraging participation by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  Please see [here](widening-participation) for more information.  The closing date for scholarship applications is September 5th.
+We are offering one free place on the workshop to encouraging participation by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  Please see [here](widening-participation) for more information.  The closing date for scholarship applications is May 1st.
 
 ## Enquiries
 For more information about the workshop or registration process please contact Len Thomas, email: [len.thomas@st-andrews.ac.uk](mailto:len.thomas@st-andrews.ac.uk)

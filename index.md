@@ -17,7 +17,7 @@ We are holding the following online workshops:
 
 - Distance Live introductory online workshop, 20-31 March 2023
 - Camera trap distance sampling, 3-7 April 2023
-- Distance sampling when animals are missed at zero distance, 21-23 August 2023
+- Distance sampling when animals are missed at zero distance, 14-16 August 2023
 - Practical design and simulation to optimise distance sampling surveys 28-31 August 2023
 
 Registration for these workshops will open at the end of January.

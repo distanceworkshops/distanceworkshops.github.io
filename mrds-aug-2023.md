@@ -21,7 +21,7 @@ In this two-day workshop, we cover survey protocols and analytical methods for d
 
 ## Timing
 
-21st and 23rd August 2023, 14:00-17:00 BST (UTC+1)  
+14th and 16th August 2023, 14:00-17:00 BST (UTC+1)  
 
 ## Enrollment limit
 
@@ -49,7 +49,7 @@ The Registration Fee is 205.00 GBP.
 
 Registration will open soon.
 
-<!--Registration and payment is via the online store at the University of St Andrews -- to register and pay, please follow [this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-distance-sampling-when-animals-are-missed-at-zero-distance-28th-31st-oct-2022) and click on the Book Event button.  The registration deadline is 7th August.-->
+<!--Registration and payment is via the online store at the University of St Andrews -- to register and pay, please follow [this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-distance-sampling-when-animals-are-missed-at-zero-distance-28th-31st-oct-2022) and click on the Book Event button.  The registration deadline is 31st July.-->
 
 Once you have registered, we will contact you to collect some follow-up information.
 

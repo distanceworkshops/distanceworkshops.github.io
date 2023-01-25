@@ -59,7 +59,7 @@ Distance sampling concepts to be discussed include:
 You should have familiarity, not necessarily proficiency, with the R programming language; code will be provided for carrying out the 9 workshop exercises.
 
 ## Registration
-The registration fee is 225 GBP. All participants are asked to abide by our [workshop code of conduct](code-of-conduct). Registration will soon open with the St Andrews Online Shop. Note registration closes **01 March 2023**.
+The registration fee is 225 GBP. All participants are asked to abide by our [workshop code of conduct](code-of-conduct). Registration will soon open with the [St Andrews Online Shop](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-live-workshop-introductory-distance-sampling-20th-31st-march-2023) at their website. Note registration closes **01 March 2023**.
 
 ### Payment
 Payment should be made using the online store at the University of St Andrews. When registration opens, a link will appear in this location to take you to the online store to register and make payment.

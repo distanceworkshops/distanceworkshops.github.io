@@ -15,12 +15,14 @@ Here you can find content for distance sampling workshops including slides, exer
 
 We are holding the following online workshops:
 
-- Distance Live introductory online workshop, 20-31 March 2023
-- Camera trap distance sampling, 3-7 April 2023
-- Distance sampling when animals are missed at zero distance, 14-16 August 2023
-- Practical design and simulation to optimise distance sampling surveys 28-31 August 2023
-
-Registration for these workshops will open at the end of January.
+- [Distance Live introductory online workshop, 20-31 March 2023](https://workshops.distancesampling.org/intro-mar-2023)
+  - Registration open soon.
+- [Camera trap distance sampling, 3-7 April 2023](https://workshops.distancesampling.org/ctds-april-2023)
+  - [Registration open](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-analysis-of-camera-trap-data-with-distance-sampling-3rd-to-7th-april-2023) - closing date 20 March 2023.
+- [Distance sampling when animals are missed at zero distance, 14-16 August 2023](https://workshops.distancesampling.org/mrds-aug-2023)
+  - [Registration open](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-distance-sampling-when-animals-are-missed-at-zero-distance-1416th-august-2023) - closing date 31 July 2023.
+- [Practical design and simulation to optimise distance sampling surveys 28-31 August 2023](https://workshops.distancesampling.org/design-aug-2023)
+  - [Registration open](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshoppractical-design-and-simulation-to-optimise-distance-sampling-surveys-2831-aug-23) - closing date 14 August 2023. 
 
 <!-- We are also in the early stages of planning workshops for spring 2023.  We will post further updates here, on [Twitter](http://twitter.com/distancesamp) and on the [distance sampling mailing list](https://groups.google.com/forum/#!forum/distance-sampling).  Please [email us](mailto:distance@st-andrews.ac.uk) if you are interested in joining a future workshop on the following topics: (1) camera trap distance sampling; (2) distance sampling when animals are missed at zero distance; (3) survey design and simulation. -->
 

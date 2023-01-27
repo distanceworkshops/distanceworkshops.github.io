@@ -24,7 +24,7 @@ The training workshop is intended to teach the fundamental principles of design 
 
 ## Timing
 
-3rd -- 7th April 2023, 14:00-17:00 UK time (BST, British Summer Time).  To find the time in your location, follow [this link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CTDS+April+2023&iso=20230304T14&p1=3853&ah=3) to a universal time converter.
+3rd - 7th April 2023, 14:00-17:00 UK time (BST, British Summer Time).  To find the time in your location, follow [this link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CTDS+April+2023&iso=20230304T14&p1=3853&ah=3) to a universal time converter.
 
 ## Enrollment limit
 

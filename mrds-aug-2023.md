@@ -1,5 +1,6 @@
 ---
 title: Workshop - distance sampling when animals are missed at zero distance, August 2023
+layout: index
 
 ---
 

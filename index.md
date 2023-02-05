@@ -16,8 +16,7 @@ Here you can find content for distance sampling workshops including slides, exer
 We are holding the following online workshops:
 
 - [Distance Live introductory online workshop, 20-31 March 2023](https://workshops.distancesampling.org/intro-mar-2023)
-  - [Registration opens](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-live-workshop-introductory-distance-sampling-20th-31st-march-2023) 31 January 2023, closes 01 March 2023.
-  - [Widening participation scholarship](widening-participation) application deadline 03 February 2023.
+  - [Registration opens](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-live-workshop-introductory-distance-sampling-20th-31st-march-2023) 31 January 2023, **closes 01 March 2023.**
 - [Camera trap distance sampling, 3-7 April 2023](https://workshops.distancesampling.org/ctds-april-2023)
   - [Registration open](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-analysis-of-camera-trap-data-with-distance-sampling-3rd-to-7th-april-2023) - closing date 20 March 2023.
 - [Distance sampling when animals are missed at zero distance, 14-16 August 2023](https://workshops.distancesampling.org/mrds-aug-2023)

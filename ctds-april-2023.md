@@ -51,23 +51,23 @@ You should already understand distance sampling concepts, for example by having 
 
 ## Registration and Payment
 
-<!--This workshop is now full.  Please [email us](mailto:distance@st-andrews.ac.uk) if you are interested in joining a future workshop on this topic.-->
+Registration for this workshop is now closed.  Please [email us](mailto:distance@st-andrews.ac.uk) if you are interested in joining a future workshop on this topic.
 
-The Registration Fee is 320.00 GBP
+<!-- The Registration Fee is 320.00 GBP
 
 Registration and payment is via the online store at the University of St Andrews - please follow [this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-analysis-of-camera-trap-data-with-distance-sampling-3rd-to-7th-april-2023) and click on the Book Event button. The registration deadline is 20th March 2022.
 
-Once you have registered, we will contact you to collect some follow-up information.
+Once you have registered, we will contact you to collect some follow-up information.-->
 
 <!--Registration will open shortly.-->
 
-All participants are asked to abide by our [workshop code of conduct](code-of-conduct).
+<!--All participants are asked to abide by our [workshop code of conduct](code-of-conduct).-->
 
 ## Widening participation scholarship
 
-We are offering one free place on the workshop to encouraging participation by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  Please see [here](widening-participation) for more information.  The closing date for scholarship applications is 13th February.
+<!--We are offering one free place on the workshop to encouraging participation by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  Please see [here](widening-participation) for more information.  The closing date for scholarship applications is 13th February.-->
 
-<!--Applications for the widening participation scholarship are now closed.-->
+Applications for the widening participation scholarship are now closed.
 
 ## Enquiries
 For more information about the workshop or registration process please contact Len Thomas, email: [len.thomas@st-andrews.ac.uk](mailto:len.thomas@st-andrews.ac.uk)

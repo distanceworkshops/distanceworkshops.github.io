@@ -15,8 +15,6 @@ Here you can find content for distance sampling workshops including slides, exer
 
 We are holding the following online workshops:
 
-- Distance Live introductory online workshop, 20-31 March 2023
-  - Registration now closed
 - [Camera trap distance sampling, 3-7 April 2023](https://workshops.distancesampling.org/ctds-april-2023)
   - Registration now closed
 - [Distance sampling when animals are missed at zero distance, 14-16 August 2023](https://workshops.distancesampling.org/mrds-aug-2023)
@@ -38,6 +36,7 @@ All instructors and participants are required to adhere to our [code of conduct]
 
 Some previous workshops from 2019 onwards, are shown here. Links, where given, are to workshop material.
 
+- *Distance Live introductory online workshop* 20th - 21st March 2023.
 - *Distance Live introductory online workshop* 09th - 20th January 2023.
 - *A practical guide to distance sampling survey design and simulation* 1st - 4th November 2022.
 - *Distance sampling when animals are missed at zero distance* 28 & 31 October 2022.

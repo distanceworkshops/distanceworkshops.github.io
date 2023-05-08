@@ -38,7 +38,7 @@ All instructors and participants are required to adhere to our [code of conduct]
 Some previous workshops from 2019 onwards, are shown here. Links, where given, are to workshop material.
 
 - *Camera trap distance sampling* - 3rd - 7th April 2023.
-- *Distance Live introductory online workshop* 20th - 21st March 2023.
+- *Distance Live introductory online workshop* 20th - 31st March 2023.
 - *Distance Live introductory online workshop* 09th - 20th January 2023.
 - *A practical guide to distance sampling survey design and simulation* 1st - 4th November 2022.
 - *Distance sampling when animals are missed at zero distance* 28 & 31 October 2022.

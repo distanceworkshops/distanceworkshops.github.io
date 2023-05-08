@@ -14,7 +14,7 @@ Does the following describe your situation?
 - Interested in using **R** for your distance sampling analysis? 
 
 If so, consider taking the live online version of our distance sampling training as have participants from these locations around the world.
-![](images/intro-workshop-thruJan23.png)
+![](images/intro-workshop-thruMar23.png)
 
 ## Overview
 Training in distance sampling design and analysis has been conducted in St Andrews for the past 25 years. In addition, training materials and video lectures were placed online in 2018 and have been visited by >20000 users in the past 4 years.

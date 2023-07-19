@@ -17,8 +17,6 @@ We are holding the following online workshops:
 
 - [Introductory distance sampling workshop](intro-jul-2023) 10-21 July 2023
   - Registration is closed
-- [Distance sampling when animals are missed at zero distance, 14-16 August 2023](https://workshops.distancesampling.org/mrds-aug-2023)
-  - [Registration open](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-distance-sampling-when-animals-are-missed-at-zero-distance-1416th-august-2023) - closing date 31 July 2023.
 - [Practical design and simulation to optimise distance sampling surveys 28-31 August 2023](https://workshops.distancesampling.org/design-aug-2023)
   - [Registration open](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshoppractical-design-and-simulation-to-optimise-distance-sampling-surveys-2831-aug-23) - closing date 14 August 2023. 
 

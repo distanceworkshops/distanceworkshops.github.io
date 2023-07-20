@@ -62,7 +62,9 @@ All participants are asked to abide by our [workshop code of conduct](code-of-co
 
 ## Widening participation scholarship
 
-We are offering one free place on the workshop to encouraging participation by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  Please see [here](widening-participation) for more information.  The closing date for scholarship applications is May 1st.
+<!-- We are offering one free place on the workshop to encouraging participation by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  Please see [here](widening-participation) for more information.   The closing date for scholarship applications is May 1st.-->
+
+The deadline for widening participation scholarship applications has now passed.
 
 ## Enquiries
 

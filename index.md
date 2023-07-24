@@ -15,8 +15,8 @@ Here you can find content for distance sampling workshops including slides, exer
 
 We are holding the following online workshops:
 
-- [Introductory distance sampling workshop](intro-jul-2023) 10-21 July 2023
-  - Registration is closed
+<!-- - [Introductory distance sampling workshop](intro-jul-2023) 10-21 July 2023
+  - Registration is closed -->
 - [Practical design and simulation to optimise distance sampling surveys 28-31 August 2023](https://workshops.distancesampling.org/design-aug-2023)
   - [Registration open](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshoppractical-design-and-simulation-to-optimise-distance-sampling-surveys-2831-aug-23) - closing date 14 August 2023. 
 
@@ -24,7 +24,7 @@ Please [email us](mailto:distance@st-andrews.ac.uk) if you are interested in joi
 
 ## Widening participation scholarships
 
-We are committed to encouraging participation in our distance sampling workshops by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science. To this end, we will donate one free place on most workshops, covering the cost of the registration fee.  For more information about the scheme, please see our [widening participation scholarship](widening-participation) page.  
+We are committed to encouraging participation in our distance sampling workshops by scientists from groups traditionally under-represented in wildlife science, and from countries with fewer resources. To this end, we will donate one free place on most workshops, covering the cost of the registration fee.  For more information about the scheme, please see our [widening participation scholarship](widening-participation) page.  
 
 ## Workshop code of conduct
 
@@ -34,6 +34,7 @@ All instructors and participants are required to adhere to our [code of conduct]
 
 Some previous workshops from 2019 onwards, are shown here. Links, where given, are to workshop material.
 
+- *Distance Live introductory online workshop* 10th - 21st July 2023.
 - *Camera trap distance sampling* - 3rd - 7th April 2023.
 - *Distance Live introductory online workshop* 20th - 31st March 2023.
 - *Distance Live introductory online workshop* 09th - 20th January 2023.

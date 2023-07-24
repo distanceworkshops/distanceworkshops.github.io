@@ -22,12 +22,14 @@ The closing date for applications is given on the workshop information page link
 
 ## Award criteria
 
-Applications will be ranked according to: (1) merit, in terms of the likely difference the training will make to the applicant’s career and to wildlife conservation/science; (2) need; (3) whether the applicant is from an under-represented group in wildlife science.  One component of need is country of origin, and in this respect priority will be given to applicants from lower income countries, in the following order:
+Applications will be ranked according to: (1) merit, in terms of the likely difference the training will make to the applicant’s career and to wildlife conservation/science; (2) need; (3) whether the applicant is from an under-represented group in wildlife science.  One component of need is country of origin, and in this respect priority will be given to applicants from lower income countries, in the following order (from right to left):
 
 <!--## Eligible countries-->
 
 ![country classification](./images/income-table.jpg)
 
-<!--Participants from all countries except those listed as high-income in the following table are eligible.-->  The table was obtained from [this UN site]([https://www.un.org/en/development/desa/policy/wesp/wesp_current/2014wesp_country_classification.pdf](https://unctad.org/system/files/official-document/wesp2023_en.pdf)https://unctad.org/system/files/official-document/wesp2023_en.pdf) .
+<!--Participants from all countries except those listed as high-income in the following table are eligible.-->  
+
+The table was obtained from [this UN site](https://unctad.org/system/files/official-document/wesp2023_en.pdf).
 
 

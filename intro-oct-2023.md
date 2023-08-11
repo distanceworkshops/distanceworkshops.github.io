@@ -59,7 +59,7 @@ Distance sampling concepts to be discussed include:
 You should have familiarity, not necessarily proficiency, with the R programming language; code will be provided for conducting the 9 workshop exercises.
 
 ## Registration
-The registration fee is 225 GBP. All participants are asked to abide by our [workshop code of conduct](code-of-conduct). Registration is now open with the St Andrews Online Shop at their website (link in next section). Registration is now closed.
+The registration fee is 225 GBP. All participants are asked to abide by our [workshop code of conduct](code-of-conduct). Registration is achieved using the [St Andrews Online Shop](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-live-workshop-introductory-distance-sampling-9th-20th-ocotber-2023) at their website. **Registration is now open**. Closing date for registration is **22 September 2023**.
 
 ### Payment
 Payment should be made using the online store at the University of St Andrews. Follow the previous link to the online store to register and make payment.
@@ -77,7 +77,7 @@ Payment should be made using the online store at the University of St Andrews. F
 
 ## Widening participation scholarship
 
-We are offering one free place on the workshop to encouraging participation by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  Please see [here](widening-participation) for more information.  Scholarship applications for the October 2023 workshop will be accepted 14-21 August 2023. 
+We are offering one free place on the workshop to encouraging participation by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  Please see [here](widening-participation) for more information.  Scholarship applications for the October 2023 workshop will be accepted **14-21 August 2023**. 
 
 ## Enquiries
 

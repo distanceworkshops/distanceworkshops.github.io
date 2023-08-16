@@ -18,10 +18,10 @@ We are holding the following online workshops:
 - [Introductory distance sampling workshop](intro-oct-2023) 09-20 October 2023
   - Registration **now open** (Closing date: 22 September 2023)
   - Widening participation scholarship application period **now open** (Closing date: 21 August 2023)
-- [Practical design and simulation to optimise distance sampling surveys 28-31 August 2023](https://workshops.distancesampling.org/design-aug-2023)
-  - [Registration open](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshoppractical-design-and-simulation-to-optimise-distance-sampling-surveys-2831-aug-23) - closing date 14 August 2023. 
+- [Practical design and simulation to optimise distance sampling surveys](https://workshops.distancesampling.org/design-aug-2023) 28-31 August 2023
+  - Registration now closed. 
 
-Please [email us](mailto:distance@st-andrews.ac.uk) if you are interested in joining a future live online workshop on the following topics: (1) introduction to distance sampling; (2) camera trap distance sampling.
+<!-- Please [email us](mailto:distance@st-andrews.ac.uk) if you are interested in joining a future live online workshop on the following topics: (1) introduction to distance sampling; (2) camera trap distance sampling. -->
 
 ## Widening participation scholarships
 

@@ -24,7 +24,7 @@ The training workshop is intended to teach the fundamental principles of design 
 
 ## Timing
 
-23rd - 27th October 2023, 12:00-13:00 UK time (BST, British Summer Time).  To find the time in your location, follow [this link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Camera+trap+distance+sampling+workshop+October+2023&iso=20231023T12&p1=3853&ah=3) to a universal time converter.
+23rd - 27th October 2023, 12:00-15:00 UK time (BST, British Summer Time).  To find the time in your location, follow [this link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Camera+trap+distance+sampling+workshop+October+2023&iso=20231023T12&p1=3853&ah=3) to a universal time converter.
 
 ## Enrollment limit
 

@@ -18,8 +18,7 @@ We are holding the following online workshops:
 - [Practical design and simulation to optimise distance sampling surveys](https://workshops.distancesampling.org/design-aug-2023) 28-31 August 2023
   - Registration now closed. 
 - [Introductory distance sampling workshop](intro-oct-2023) 09-20 October 2023
-  - Registration **now open** (Closing date: 22 September 2023)
-  - Widening participation scholarship application period **now open** (Closing date: 21 August 2023)
+  - Registration **closing soon** (Closing date: 22 September 2023)
 - [Camera trap distance sampling workshop](ctds-oct-2023) 23-27 October 2023
   - Registration **now open** (Closing date: 6 October 2023)
   - Widening participation scholarship application period **now open** (Closing date: 4 September 2023)

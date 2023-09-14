@@ -21,7 +21,6 @@ We are holding the following online workshops:
   - Registration **closing soon** (Closing date: 22 September 2023)
 - [Camera trap distance sampling workshop](ctds-oct-2023) 23-27 October 2023
   - Registration **now open** (Closing date: 6 October 2023)
-  - Widening participation scholarship application period **now open** (Closing date: 4 September 2023)
 <!-- Please [email us](mailto:distance@st-andrews.ac.uk) if you are interested in joining a future live online workshop on the following topics: (1) introduction to distance sampling; (2) camera trap distance sampling. -->
 
 ## Widening participation scholarships

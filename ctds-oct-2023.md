@@ -51,9 +51,9 @@ You should already understand distance sampling concepts, for example by having 
 
 ## Registration and Payment
 
-<!--Registration for this workshop is now closed.  Please [email us](mailto:distance@st-andrews.ac.uk) if you are interested in joining a future workshop on this topic.-->
+Registration for this workshop is now closed.  Please [email us](mailto:distance@st-andrews.ac.uk) if you are interested in joining a future workshop on this topic.
 <!--Registration will open shortly.-->
-
+<!--
 The Registration Fee is 330.00 GBP
 
 Registration and payment is via the online store at the University of St Andrews - please follow [this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-analysis-of-camera-trap-data-with-distance-sampling-23rd-27th-october-2023)
@@ -62,12 +62,13 @@ Registration and payment is via the online store at the University of St Andrews
 Once you have registered, we will contact you to collect some follow-up information.
 
 All participants are asked to abide by our [workshop code of conduct](code-of-conduct).
-
+-->
 ## Widening participation scholarship
 
+<!--
 We are offering one free place on the workshop to encouraging participation by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  Please see [here](widening-participation) for more information.  The closing date for scholarship applications is 4th September.
-
-<!--Applications for the widening participation scholarship are now closed.-->
+-->
+Applications for the widening participation scholarship are now closed.
 
 ## Enquiries
 For more information about the workshop or registration process please contact Len Thomas, email: [len.thomas@st-andrews.ac.uk](mailto:len.thomas@st-andrews.ac.uk)

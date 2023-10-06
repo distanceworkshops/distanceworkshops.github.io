@@ -20,8 +20,8 @@ We are holding the following online workshops:
 - [Introductory distance sampling workshop](intro-oct-2023) 09-20 October 2023
   - Registration **now closed**
 - [Camera trap distance sampling workshop](ctds-oct-2023) 23-27 October 2023
-  - Registration **now open** (Closing date: 6 October 2023)
-<!-- Please [email us](mailto:distance@st-andrews.ac.uk) if you are interested in joining a future live online workshop on the following topics: (1) introduction to distance sampling; (2) camera trap distance sampling. -->
+  - Workshop full.
+Please [email us](mailto:distance@st-andrews.ac.uk) if you are interested in joining a future live online workshop on the following topics: (1) introduction to distance sampling; (2) camera trap distance sampling.
 
 ## Widening participation scholarships
 

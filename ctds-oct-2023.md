@@ -52,9 +52,9 @@ You should already understand distance sampling concepts, for example by having 
 ## Registration and Payment
 
 Registration for this workshop is now closed.  Please [email us](mailto:distance@st-andrews.ac.uk) if you are interested in joining a future workshop on this topic.
+
 <!--Registration will open shortly.-->
-<!--
-The Registration Fee is 330.00 GBP
+<!--The Registration Fee is 330.00 GBP
 
 Registration and payment is via the online store at the University of St Andrews - please follow [this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-analysis-of-camera-trap-data-with-distance-sampling-23rd-27th-october-2023)
  and click on the Book Event button. The registration deadline is 6th October 2023.

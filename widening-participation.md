@@ -6,7 +6,7 @@ layout: index
 
 # Distance sampling workshops widening participation scholarship
 
-The Centre for Research into Ecological and Environmental Modelling is committed to encouraging participation in our distance sampling workshops by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  To this end, we will donate one free place on each workshop, covering the cost of the registration fee.
+The Centre for Research into Ecological and Environmental Modelling is committed to encouraging participation in our distance sampling workshops by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  To this end, we will donate up to one free place on each workshop, covering the cost of the registration fee.
 
 <!--
 ## Eligibility

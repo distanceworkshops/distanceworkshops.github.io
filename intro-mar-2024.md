@@ -24,7 +24,7 @@ We now offer these lectures, discussions and exercises in an interactive format,
 The workshop instructor is [Eric Rexstad](https://www.creem.st-andrews.ac.uk/person/er26/)
 
 ## Timing
-We will offer this workshop 04-15 March 2024 between the hours of **1400 and 1630 UK time**.  The first two hours of each session are obligatory, the last half hour is devoted to discussion.  Follow this link to find the [time of day this is offered in your time zone.]([[https://www.timeanddate.com/worldclock/fixedtime.html?msg=Introductory+distance+sampling+training+workshop&iso=20230710T14&p1=3853&ah=2&am=30](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Introductory+distance+sampling+workshop&iso=20240304T14&p1=3853&ah=2&am=30)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Introductory+distance+sampling+workshop&iso=20240304T14&p1=3853&ah=2&am=30))
+We will offer this workshop 04-15 March 2024 between the hours of **1400 and 1630 UK time**.  The first two hours of each session are obligatory, the last half hour is devoted to discussion.  Follow this link to find the [time of day this is offered in your time zone.](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Introductory+distance+sampling+workshop&iso=20240304T14&p1=3853&ah=2&am=30)
 
 ## Enrollment limit
 The number of participants is limited to 15 to facilitate time for questions and individual assistance with the exercises. 

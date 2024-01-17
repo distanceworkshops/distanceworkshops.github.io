@@ -13,12 +13,14 @@ Here you can find content for distance sampling workshops including slides, exer
 
 ## Forthcoming interactive online workshops
 
-We are currently planning our workshop offerings for 2024.  We envisage giving live online workshops on the following topics:
+We are giving the following live online workshop:
 
- - Introduction to distance sampling
- - Camera trap distance sampling
+ - [Introduction to distance sampling](https://workshops.distancesampling.org/intro-mar-2024)
+   - Workshop dates: **04-15 March 2024**
+   - Widening participation scholarship application period: **17-24 January 2024**
+   - Workshop registration deadline: **21 February 2024**
 
-We will post further details when available.  Please [email us](mailto:distance@st-andrews.ac.uk) if you are interested in joining either workshop, or are interested in workshops on (1) practical design and simulation, or (2) spatial models for distance sampling data.
+Please [email us](mailto:distance@st-andrews.ac.uk) if you are interested in workshops on (1) distance sampling analysis of camera trap data, (2) practical design and simulation, or (3) spatial models for distance sampling data.
 
 <!--
 We are holding the following online workshops:

@@ -13,24 +13,14 @@ Here you can find content for distance sampling workshops including slides, exer
 
 ## Forthcoming interactive online workshops
 
-We are giving the following live online workshop:
+We are holding the following live online workshop:
 
- - Introduction to distance sampling 04-15 March 2024
-   - Registration now **closed**
+ - [Camera trap distance sampling](https://workshops.distancesampling.org/ctds-may-2024)  27-31 May 2024
+   - Registration will open shortly.
+   - Applications for widening participation scholarship (see below) are now open.  
 
-Please [email us](mailto:distance@st-andrews.ac.uk) if you are interested in workshops on (1) distance sampling analysis of camera trap data, (2) practical design and simulation, or (3) spatial models for distance sampling data.
+Please [email us](mailto:distance@st-andrews.ac.uk) if you are interested in workshops on (1) introduction to distance sampling, (2) practical design and simulation, or (3) spatial models for distance sampling data.
 
-<!--
-We are holding the following online workshops:
-
- - [Practical design and simulation to optimise distance sampling surveys](https://workshops.distancesampling.org/design-aug-2023) 28-31 August 2023
-  - Registration now closed. 
- - [Camera trap distance sampling workshop](ctds-oct-2023) 23-27 October 2023
-  - Workshop full.
-
-Please [email us](mailto:distance@st-andrews.ac.uk) if you are interested in joining a future live online workshop on the following topics: (1) introduction to distance sampling; (2) camera trap distance sampling.
- -->
- 
 ## Widening participation scholarships
 
 We are committed to encouraging participation in our distance sampling workshops by scientists from groups traditionally under-represented in wildlife science, and from countries with fewer resources. To this end, we will donate up to one free place on most workshops, covering the cost of the registration fee.  For more information about the scheme, please see our [widening participation scholarship](widening-participation) page.  
@@ -43,6 +33,7 @@ All instructors and participants are required to adhere to our [code of conduct]
 
 Some previous workshops from 2019 onwards, are shown here. Links, where given, are to workshop material.
 
+- *Introduction to distance sampling* - 04th - 15th March 2024.
 - *Camera trap distance sampling* - 23rd - 27th October 2023.
 - *Distance Live introductory online workshop* 09th - 20th October 2023.
 - *Practical design and simulation to optimise distance sampling surveys* 28-31st August 2023.

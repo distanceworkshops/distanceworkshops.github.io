@@ -26,6 +26,8 @@ The training workshop is intended to teach the fundamental principles of design 
 
 27th - 31st May 2024, 11:00-14:00 UK time (BST, British Summer Time).  To find the time in your location, follow [this link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Camera+Trap+Distance+Sampling+Workshop&iso=20240527T11&p1=3853&ah=3) to a universal time converter.
 
+In order to get the most out of the teaching, additional time will be required for self-study both in the lead-up to the workshop (advance preparation) and during the workshop week.  Activities during the workshop week include take-home exercises.  We recommend putting aside around an additional 2-3 hours per day during the workshop week for self-study, including undertaking these exercises.
+
 Please note that the daily time of this workshop is designed to suit participants from Europe, Africa and Asia, and get as close we can to working for participants in Oceania given that one of our instructors is in Eastern Canada.  As our instructor Eric demonstrates, it is also manageable for those from Eastern America.  If you are keen on attending one of our workshops but the workshop time is not compatible with you, please  [email Len Thomas](mailto:len.thomas@st-andrews.ac.uk).  If there is sufficient interest we may run a workshop later in the year starting later in the (UK) day.  
 
 ## Enrollment limit
@@ -60,7 +62,7 @@ Registration will open shortly.
 <!--The Registration Fee is 335.00 GBP
 
 Registration and payment is via the online store at the University of St Andrews - please follow [this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-analysis-of-camera-trap-data-with-distance-sampling-23rd-27th-october-2023)
- and click on the Book Event button. The registration deadline is 13th May 2024.
+ and click on the Book Event button. The registration deadline is 15th May 2024.
 
 Once you have registered, we will contact you to collect some follow-up information.
 

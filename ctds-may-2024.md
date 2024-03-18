@@ -57,7 +57,7 @@ You should already understand distance sampling concepts, for example by having 
 
 Registration will open shortly.
 
-<!--The Registration Fee is 330.00 GBP
+<!--The Registration Fee is 335.00 GBP
 
 Registration and payment is via the online store at the University of St Andrews - please follow [this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-analysis-of-camera-trap-data-with-distance-sampling-23rd-27th-october-2023)
  and click on the Book Event button. The registration deadline is 13th May 2024.

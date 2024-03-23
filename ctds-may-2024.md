@@ -8,6 +8,8 @@ layout: index
 
 Camera traps are widely used for studying terrestrial animal populations.  Several methods exist for analysis of camera trap data to estimate animal abundance.  Use of distance sampling theory for analysis of camera trap data does not require identification of individual animals to estimate abundance, making it applicable to a much larger set of species.  This workshop, through lectures and computer exercises, provides training in survey design and the analysis of camera trap data to produce abundance estimates.
 
+Update: Registration now open - follow [this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/mathematics-statistics/online-workshop-analysis-of-camera-trap-data-with-distance-sampling-27th31st-may-2024) to register.
+
 <!-- Update: this workshop is now full.  Please [email us](mailto:distance@st-andrews.ac.uk) if you are interested in joining a future workshop on this topic. -->
 
 ## Overview
@@ -57,11 +59,11 @@ You should already understand distance sampling concepts, for example by having 
 
 <!--Registration for this workshop is now closed.  Please [email us](mailto:distance@st-andrews.ac.uk) if you are interested in joining a future workshop on this topic.-->
 
-Registration will open shortly.
+<!--Registration will open shortly.-->
 
-<!--The Registration Fee is 335.00 GBP
+The Registration Fee is 335.00 GBP
 
-Registration and payment is via the online store at the University of St Andrews - please follow [this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/online-workshop-analysis-of-camera-trap-data-with-distance-sampling-23rd-27th-october-2023)
+Registration and payment is via the online store at the University of St Andrews - please follow [this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/mathematics-statistics/online-workshop-analysis-of-camera-trap-data-with-distance-sampling-27th31st-may-2024)
  and click on the Book Event button. The registration deadline is 15th May 2024.
 
 Once you have registered, we will contact you to collect some follow-up information.

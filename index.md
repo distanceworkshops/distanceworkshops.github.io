@@ -16,10 +16,9 @@ Here you can find content for distance sampling workshops including slides, exer
 We are holding the following live online workshop:
 
  - [Camera trap distance sampling](https://workshops.distancesampling.org/ctds-may-2024)  27-31 May 2024
-   - Registration is now open - follow [this link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/mathematics-statistics/online-workshop-analysis-of-camera-trap-data-with-distance-sampling-27th31st-may-2024) to register.  Registration closes on 15th May or when the workshop is full, whichever is sooner.
-   - Applications for the [widening participation scholarship](http://workshops.distancesampling.org/widening-participation) are now open.  Closing date for applications: 12th April.  
+   - Registration is now closed.
 
-Please [email us](mailto:distance@st-andrews.ac.uk) if you are interested in workshops on (1) introduction to distance sampling, (2) practical design and simulation, or (3) spatial models for distance sampling data.
+Please [email us](mailto:distance@st-andrews.ac.uk) if you are interested in workshops on (1) introduction to distance sampling, (2) practical design and simulation, (3) spatial models for distance sampling data or (4) camera trap distance sampling.
 
 ## Widening participation scholarships
 

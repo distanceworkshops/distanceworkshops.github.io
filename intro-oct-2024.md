@@ -21,7 +21,7 @@ Training in distance sampling design and analysis has been conducted in St Andre
 We now offer these lectures, discussions and exercises in an interactive format, enabling participants to engage in lectures, conduct guided analyses of data sets and ask questions of the instructor.
 
 ## Instructor
-The workshop instructor is [Eric Rexstad](https://www.creem.st-andrews.ac.uk/person/er26/)
+The workshop instructor is [Eric Rexstad](https://research-portal.st-andrews.ac.uk/en/persons/eric-rexstad)
 
 ## Timing
 We will offer this workshop 07-18 October 2024 between the hours of **1400 and 1630 UK time**.  The first two hours of each session are obligatory, the last half hour is devoted to discussion.  Follow this link to find the [time of day this is offered in your time zone.](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Introductory+distance+sampling+training+workshop&iso=20241007T14&p1=3853&ah=2&am=30)
@@ -77,7 +77,7 @@ Payment should be made using the [online store](https://onlineshop.st-andrews.ac
 
 ## Widening participation scholarship
 
-We are offering one free place on the workshop to encouraging participation by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  Please see [here](widening-participation) for more information.  Scholarship applications for the October 2024 workshop will be accepted **11-22 July 2024**. 
+We are offering one free place on the workshop to encouraging participation by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  Please see [here](widening-participation.md) for more information.  Scholarship applications for the October 2024 workshop will be accepted **11-22 July 2024**. 
 
 ## Enquiries
 

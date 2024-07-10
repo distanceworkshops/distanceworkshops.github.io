@@ -15,8 +15,10 @@ Here you can find content for distance sampling workshops including slides, exer
 
 We are holding the following live online workshop:
 
- - [Camera trap distance sampling](https://workshops.distancesampling.org/ctds-may-2024)  27-31 May 2024
-   - Registration is now closed.
+- [Introductory distance sampling](intro-oct-2024) 07-18 October 2024
+  - Registration now open ([registration page](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/creem-online-live-workshop-introductory-distance-sampling-7th-october-18th-october-2024)
+  - Applications accepted for [widening participation scholarship](widening-participation) 11-22 July
+  - Registration deadline **09 September 2024**
 
 Please [email us](mailto:distance@st-andrews.ac.uk) if you are interested in workshops on (1) introduction to distance sampling, (2) practical design and simulation, (3) spatial models for distance sampling data or (4) camera trap distance sampling.
 
@@ -32,6 +34,7 @@ All instructors and participants are required to adhere to our [code of conduct]
 
 Some previous workshops from 2019 onwards, are shown here. Links, where given, are to workshop material.
 
+- *Camera trap distance sampling* - 27th - 31st May 2024
 - *Introduction to distance sampling* - 04th - 15th March 2024.
 - *Camera trap distance sampling* - 23rd - 27th October 2023.
 - *Distance Live introductory online workshop* 09th - 20th October 2023.

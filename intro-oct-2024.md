@@ -77,7 +77,7 @@ Payment should be made using the [online store](https://onlineshop.st-andrews.ac
 
 ## Widening participation scholarship
 
-We are offering one free place on the workshop to encouraging participation by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  Please see [here](widening-participation.md) for more information.  Scholarship applications for the October 2024 workshop will be accepted **11-22 July 2024**. 
+We are offering one free place on the workshop to encouraging participation by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  Please see [here](widening-participation) for more information.  Scholarship applications for the October 2024 workshop will be accepted **11-22 July 2024**. 
 
 ## Enquiries
 

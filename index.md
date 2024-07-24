@@ -17,7 +17,6 @@ We are holding the following live online workshop:
 
 - [Introductory distance sampling](intro-oct-2024) 07-18 October 2024
   - Registration now open ([registration page](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/creem-online-live-workshop-introductory-distance-sampling-7th-october-18th-october-2024))
-  - Applications accepted for [widening participation scholarship](widening-participation) 11-22 July
   - Registration deadline **09 September 2024**
 
 Please [email us](mailto:distance@st-andrews.ac.uk) if you are interested in workshops on (1) introduction to distance sampling, (2) practical design and simulation, (3) spatial models for distance sampling data or (4) camera trap distance sampling.

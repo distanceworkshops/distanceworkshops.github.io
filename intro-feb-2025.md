@@ -1,10 +1,10 @@
 ---
-title: Introductory workshop, October 2024
+title: Introductory workshop, February 2025
 layout: index
 
 ---
 
-# Introductory workshop, October 2024 
+# Introductory workshop, February 2025
 
 Does the following describe your situation?
 
@@ -17,14 +17,14 @@ If so, consider taking the live online version of our distance sampling training
 ![](images/intropartsthrough2023.png)
 
 ## Overview
-Training in distance sampling design and analysis has been conducted in St Andrews for the past 25 years. In addition, training materials and video lectures were placed online in 2018 and have been visited by >20000 users in the past five years.
+Training in distance sampling design and analysis has been conducted in St Andrews for the past 25 years. In addition, training materials and video lectures were placed online in 2018 and have been visited by >20000 visitors in the past six years.
 We now offer these lectures, discussions and exercises in an interactive format, enabling participants to engage in lectures, conduct guided analyses of data sets and ask questions of the instructor.
 
 ## Instructor
 The workshop instructor is [Eric Rexstad](https://research-portal.st-andrews.ac.uk/en/persons/eric-rexstad)
 
 ## Timing
-We will offer this workshop 07-18 October 2024 between the hours of **1400 and 1630 UK time**.  The first two hours of each session are obligatory, the last half hour is devoted to discussion.  Follow this link to find the [time of day this is offered in your time zone.](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Introductory+distance+sampling+training+workshop&iso=20241007T14&p1=3853&ah=2&am=30)
+We will offer this workshop 17-28 February 2025 between the hours of **1400 and 1630 UK time**.  The first two hours of each session are obligatory, the last half hour is devoted to discussion.  Follow this link to find the [time of day this is offered in your time zone.]([https://www.timeanddate.com/worldclock/fixedtime.html?msg=Introductory+distance+sampling+training+workshop&iso=20241007T14&p1=3853&ah=2&am=30](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Introductory+distance+sampling+workshop+February+2025&iso=20250217T14&p1=3853&ah=2&am=30))
 
 ## Enrollment limit
 The number of participants is limited to 15 to facilitate time for questions and individual assistance with the exercises. 
@@ -59,10 +59,10 @@ Distance sampling concepts to be discussed include:
 You should have familiarity, not necessarily proficiency, with the R programming language; code will be provided for conducting the 9 workshop exercises.
 
 ## Registration
-The registration fee is 225 GBP. All participants are asked to abide by our [workshop code of conduct](code-of-conduct). Registration will soon open through the [St Andrews Online Shop](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/creem-online-live-workshop-introductory-distance-sampling-7th-october-18th-october-2024). Closing date for registration is **09 September 2024**.
+The registration fee is 225 GBP. All participants are asked to abide by our [workshop code of conduct](code-of-conduct). Registration will open in mid-November 2024 through the St Andrews Online Shop. Closing date for registration is **28 January 2025**.
 
 ### Payment
-Payment should be made using the [online store](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/creem/creem-online-live-workshop-introductory-distance-sampling-7th-october-18th-october-2024) at the University of St Andrews. Follow the link to the online store to register and make payment.
+Payment should be made using the online store at the University of St Andrews. Follow the link to the online store to register and make payment.
 
 ## Testimonials
 > I really like your teaching style. The pace is steady enough for ample note taking, but quick enough to keep my attention span. The humour gets me chuckling alone at my desk. The concepts are so easy to understand and relate to. Some of these concepts I’ve been aware of for a long time in a kind of ‘working knowledge’ way, but hearing you describe the theory behind them is giving me a lot of ‘oh yeah!’ moments. It is a real pleasure and is giving me a lot to think about for my own teaching.  — Dr Sarah Marley, <em>University of Portsmouth</em>
@@ -77,7 +77,7 @@ Payment should be made using the [online store](https://onlineshop.st-andrews.ac
 
 ## Widening participation scholarship
 
-We are offering one free place on the workshop to encouraging participation by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  Please see [here](widening-participation) for more information.  Scholarship applications for the October 2024 workshop will be accepted **11-22 July 2024**. 
+We are offering one free place on the workshop to encouraging participation by scientists from countries with fewer resources, and from groups traditionally under-represented in wildlife science.  Please see [here](widening-participation) for more information.  Scholarship applications for the February 2025 workshop will be accepted **11-22 November 2024**. 
 
 ## Enquiries
 

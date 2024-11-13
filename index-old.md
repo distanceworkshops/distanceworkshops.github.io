@@ -5,29 +5,7 @@ layout: index
 
 # Distance Sampling Workshops
 
-Here you can find content for distance sampling workshops including slides, exercises and other materials.
-
-## Free online course
-
-[Online distance sampling introductory workshop](online-course): a full introductory workshop, including recorded video lectures, exercises and quizzes.
-
-## Forthcoming interactive online workshops
-
-We are holding the following live online workshop:
-
-- [Introductory distance sampling](intro-oct-2024) 07-18 October 2024
-  - Registration deadline **09 September 2024**
-    - However, the workshop is **fully booked**. If you wish to be notified regarding 2025 introductory workshops, contact [Eric Rexstad](mailto:er26@st-andrews.ac.uk)
-
-Please [email us](mailto:distance@st-andrews.ac.uk) if you are interested in workshops on (1) introduction to distance sampling, (2) practical design and simulation, (3) spatial models for distance sampling data or (4) camera trap distance sampling.
-
-## Widening participation scholarships
-
-We are committed to encouraging participation in our distance sampling workshops by scientists from groups traditionally under-represented in wildlife science, and from countries with fewer resources. To this end, we will donate up to one free place on most workshops, covering the cost of the registration fee.  For more information about the scheme, please see our [widening participation scholarship](widening-participation) page.  
-
-## Workshop code of conduct
-
-All instructors and participants are required to adhere to our [code of conduct](code-of-conduct).
+Information about distance sampling training from the University of St Andrews has moved.  It is now available at [this web page](https://distancesampling.org/training/training.html).
 
 ## Previous workshops
 
